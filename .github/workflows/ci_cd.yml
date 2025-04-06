@@ -60,7 +60,12 @@ jobs:
  
       - name: Build Docker Image
         run: docker build -t $IMAGE:$GITHUB_SHA .
- 
+
+      - name: Update CA Certificates
+        run: |
+          sudo apt-get update
+          sudo apt-get install --reinstall ca-certificates
+
       - name: Push Docker Image to Artifact Registry
         run: docker push $IMAGE:$GITHUB_SHA
  
