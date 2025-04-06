@@ -32,7 +32,7 @@ jobs:
  
       - name: Run Tests
         run: |
-          pytest tests/
+          pytest test.py
  
       - name: Lint Code
         run: |
