@@ -37,7 +37,6 @@ jobs:
       - name: Lint Code
         run: |
           pip install black flake8
-          black . --line-length 120
           black . --check
           flake8 .
  
