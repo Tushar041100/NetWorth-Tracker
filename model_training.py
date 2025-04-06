@@ -10,9 +10,7 @@ import joblib
 df = pd.read_csv("synthetic_asset_allocation_dataset.csv")
 
 # Feature Engineering
-df["savings_ratio"] = (df["income_per_month"] - df["monthly_expenses"]) / df[
-    "income_per_month"
-]
+df["savings_ratio"] = (df["income_per_month"] - df["monthly_expenses"]) / df["income_per_month"]
 df["is_long_term_goal"] = (df["goal_horizon_years"] > 10).astype(int)
 df["income_bracket"] = pd.cut(
     df["income_per_month"],
@@ -44,16 +42,12 @@ y = df[["equity_percent", "debt_percent", "gold_percent", "real_estate_percent"]
 
 # Normalize numerical features
 scaler = StandardScaler()
-X[["age", "income_per_month", "monthly_expenses", "goal_horizon_years"]] = (
-    scaler.fit_transform(
-        X[["age", "income_per_month", "monthly_expenses", "goal_horizon_years"]]
-    )
+X[["age", "income_per_month", "monthly_expenses", "goal_horizon_years"]] = scaler.fit_transform(
+    X[["age", "income_per_month", "monthly_expenses", "goal_horizon_years"]]
 )
 
 # Train-test split
-X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42
-)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 # Model initialization
 model = MultiOutputRegressor(RandomForestRegressor(n_estimators=150, random_state=42))

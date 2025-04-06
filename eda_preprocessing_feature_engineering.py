@@ -50,30 +50,22 @@ for col in ["risk_tolerance", "financial_goal", "investment_experience"]:
     label_encoders[col] = le
 
 # Feature and target split
-X = df.drop(
-    columns=["equity_percent", "debt_percent", "gold_percent", "real_estate_percent"]
-)
+X = df.drop(columns=["equity_percent", "debt_percent", "gold_percent", "real_estate_percent"])
 y = df[["equity_percent", "debt_percent", "gold_percent", "real_estate_percent"]]
 
 # Normalize income, expenses, age, horizon
 scaler = StandardScaler()
-X[["age", "income_per_month", "monthly_expenses", "goal_horizon_years"]] = (
-    scaler.fit_transform(
-        X[["age", "income_per_month", "monthly_expenses", "goal_horizon_years"]]
-    )
+X[["age", "income_per_month", "monthly_expenses", "goal_horizon_years"]] = scaler.fit_transform(
+    X[["age", "income_per_month", "monthly_expenses", "goal_horizon_years"]]
 )
 
 # Train-test split
-X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42
-)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 print("Preprocessing complete.")
 
 # Add savings rate
-df["savings_ratio"] = (df["income_per_month"] - df["monthly_expenses"]) / df[
-    "income_per_month"
-]
+df["savings_ratio"] = (df["income_per_month"] - df["monthly_expenses"]) / df["income_per_month"]
 
 # IsLongTermGoal
 df["is_long_term_goal"] = (df["goal_horizon_years"] > 10).astype(int)
@@ -89,7 +81,5 @@ df["income_bracket"] = pd.cut(
 df["income_bracket"] = LabelEncoder().fit_transform(df["income_bracket"])
 
 # Update X features
-X = df.drop(
-    columns=["equity_percent", "debt_percent", "gold_percent", "real_estate_percent"]
-)
+X = df.drop(columns=["equity_percent", "debt_percent", "gold_percent", "real_estate_percent"])
 y = df[["equity_percent", "debt_percent", "gold_percent", "real_estate_percent"]]
