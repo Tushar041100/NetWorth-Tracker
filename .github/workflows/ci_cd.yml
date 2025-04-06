@@ -33,13 +33,11 @@ jobs:
       - name: Run Tests
         run: |
           pytest test.py
-
-      - name: Format with Black
-        run: black . --line-length 120
         
       - name: Lint Code
         run: |
           pip install black flake8
+          black . --line-length 120
           black . --check
           flake8 .
  
