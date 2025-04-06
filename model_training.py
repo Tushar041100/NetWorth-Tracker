@@ -66,7 +66,7 @@ y_pred = model.predict(X_test)
 mae = mean_absolute_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
-print(f"\nModel Evaluation:")
+print("\nModel Evaluation:")
 print(f"Mean Absolute Error: {mae:.2f}")
 print(f"R² Score: {r2:.2f}")
 
