@@ -1,0 +1,1001 @@
+age,income_per_month,monthly_expenses,risk_tolerance,financial_goal,goal_horizon_years,investment_experience,equity_percent,debt_percent,gold_percent,real_estate_percent
+59,166867,50920,Low,Wealth Creation,15,Beginner,24.76,59.85,8.35,7.04
+31,107498,79440,Low,Retirement,21,Beginner,24.39,67.33,8.28,0.0
+22,214027,129133,Medium,Education,6,Beginner,40.39,40.22,8.16,11.22
+45,176730,137497,Medium,Education,10,Beginner,46.21,44.57,9.22,0.0
+23,23890,16005,Medium,Education,21,Intermediate,64.29,21.75,13.96,0.0
+34,225041,110513,Low,House,9,Beginner,12.35,65.89,7.49,14.27
+28,126530,52500,Medium,Education,17,Expert,56.36,33.94,9.71,0.0
+26,260181,157007,Low,House,4,Beginner,12.11,65.81,8.42,13.65
+56,31534,22203,Medium,House,14,Beginner,63.78,24.84,11.39,0.0
+36,44300,21819,Medium,Education,15,Intermediate,65.47,25.69,8.84,0.0
+49,68984,23263,Low,Education,24,Beginner,23.4,67.16,9.44,0.0
+37,184231,69255,High,Retirement,3,Intermediate,80.84,6.14,6.83,6.19
+27,290536,117695,Medium,Wealth Creation,12,Beginner,58.79,21.95,9.81,9.46
+55,293109,112470,Medium,Retirement,3,Beginner,53.16,24.07,9.21,13.56
+46,118806,42551,Medium,Retirement,14,Beginner,60.02,29.98,10.0,0.0
+33,273618,132100,Medium,Education,7,Beginner,51.76,32.69,8.86,6.68
+59,218286,99312,Medium,Retirement,13,Beginner,50.21,25.51,8.58,15.71
+26,263307,104931,Low,Wealth Creation,11,Beginner,18.93,54.63,10.16,16.28
+21,148376,111354,Medium,Education,25,Beginner,60.47,32.67,6.86,0.0
+28,156602,50728,Medium,Wealth Creation,1,Beginner,38.52,38.19,12.61,10.68
+52,88840,66005,Medium,House,20,Beginner,54.6,33.73,11.67,0.0
+57,236688,164270,Low,Education,27,Intermediate,23.36,59.95,8.05,8.64
+53,277426,134086,Low,Education,26,Expert,27.37,49.56,10.4,12.67
+37,188229,124331,Low,House,5,Intermediate,20.35,65.46,8.02,6.17
+53,106202,76217,High,House,16,Beginner,76.0,13.1,10.9,0.0
+39,54754,24764,Medium,Education,20,Beginner,64.81,23.54,11.64,0.0
+59,293255,125480,High,Retirement,11,Expert,71.54,5.46,10.53,12.47
+55,167718,97158,Medium,Wealth Creation,16,Beginner,57.9,26.15,9.01,6.93
+32,137796,71193,Medium,Wealth Creation,27,Beginner,58.96,28.19,12.86,0.0
+36,86690,30506,Medium,Education,24,Expert,53.91,34.63,11.47,0.0
+28,287683,212367,Medium,House,25,Intermediate,69.35,21.41,9.24,0.0
+38,97505,32120,High,Retirement,3,Intermediate,82.18,8.81,9.01,0.0
+53,155059,105388,Medium,Education,8,Beginner,54.84,31.9,7.55,5.71
+42,136381,88247,Low,House,13,Expert,21.26,68.49,10.25,0.0
+41,156672,87765,Low,Education,16,Expert,20.02,58.2,13.1,8.67
+48,102989,67108,Low,Wealth Creation,6,Beginner,20.6,66.63,12.77,0.0
+51,144019,108931,Medium,House,29,Intermediate,55.6,35.31,9.1,0.0
+38,185656,88441,Medium,House,22,Expert,55.84,26.61,7.05,10.5
+42,38070,14430,High,House,27,Beginner,79.51,9.03,11.46,0.0
+29,229141,174389,Medium,Education,7,Expert,50.35,39.72,9.93,0.0
+45,292791,227625,Low,Education,28,Intermediate,23.01,63.97,13.01,0.0
+21,97575,35927,Medium,House,14,Beginner,59.02,32.64,8.34,0.0
+48,52097,28750,Low,Wealth Creation,23,Intermediate,27.35,63.03,9.63,0.0
+42,75609,53971,Low,Education,22,Intermediate,21.82,65.9,12.28,0.0
+57,133632,59597,Medium,House,28,Beginner,57.09,34.21,8.7,0.0
+52,231810,109277,High,Wealth Creation,8,Beginner,69.17,17.08,6.59,7.16
+37,93847,45368,Low,Retirement,19,Intermediate,25.41,64.66,9.93,0.0
+43,240552,172400,Medium,Wealth Creation,21,Beginner,50.9,38.75,10.35,0.0
+52,158877,52900,Low,Retirement,16,Intermediate,14.57,64.27,10.59,10.57
+25,133429,99666,Low,Wealth Creation,3,Beginner,17.23,71.74,11.04,0.0
+49,29435,14018,Low,House,15,Beginner,14.13,73.13,12.74,0.0
+32,259833,199254,High,Education,16,Beginner,82.83,8.52,8.65,0.0
+57,43049,26983,High,Wealth Creation,5,Beginner,85.54,9.22,5.25,0.0
+39,291967,129565,Low,Wealth Creation,5,Expert,18.98,58.38,9.11,13.53
+48,239295,132678,Low,Wealth Creation,20,Intermediate,22.21,56.34,11.07,10.38
+57,58304,30970,Low,Wealth Creation,10,Intermediate,17.09,72.38,10.53,0.0
+22,117532,62381,Medium,Education,18,Expert,67.92,22.19,9.89,0.0
+46,227869,134313,Medium,House,19,Intermediate,54.51,21.85,11.38,12.26
+49,27543,15849,Medium,Retirement,25,Expert,66.58,24.91,8.51,0.0
+29,186807,103337,Medium,Retirement,3,Intermediate,55.54,26.24,6.37,11.85
+44,239798,79296,Low,Retirement,5,Intermediate,14.56,68.19,9.33,7.92
+50,130448,53531,Medium,Retirement,20,Beginner,63.83,24.39,11.78,0.0
+56,215004,137437,Medium,Wealth Creation,19,Beginner,47.92,24.73,12.24,15.11
+39,25486,15980,Medium,House,21,Beginner,54.37,34.08,11.54,0.0
+41,257027,195432,Medium,Wealth Creation,23,Expert,65.88,21.58,12.55,0.0
+59,29348,16134,Low,Wealth Creation,23,Expert,22.34,64.43,13.22,0.0
+29,174697,135282,Low,House,12,Beginner,26.77,63.57,9.66,0.0
+29,239930,91044,Medium,Education,2,Beginner,40.65,33.3,13.86,12.2
+21,258067,169212,Medium,House,7,Intermediate,55.55,32.62,6.4,5.43
+59,138874,66951,Low,Education,26,Beginner,21.21,68.12,10.66,0.0
+48,285853,209716,High,Education,20,Intermediate,81.94,6.73,11.33,0.0
+21,59298,27977,High,Retirement,28,Beginner,83.74,8.64,7.62,0.0
+53,262804,193662,Medium,House,26,Intermediate,50.92,40.78,8.3,0.0
+41,212714,140353,High,House,5,Expert,71.83,15.82,5.51,6.83
+34,279214,136402,High,House,1,Expert,64.33,17.94,11.26,6.46
+32,31023,14369,Medium,Education,6,Expert,55.87,36.86,7.27,0.0
+48,125787,69657,Medium,Retirement,28,Beginner,49.06,38.14,12.8,0.0
+37,186619,138829,Low,Retirement,13,Intermediate,26.67,61.29,12.04,0.0
+25,70990,31433,High,Wealth Creation,2,Beginner,62.73,26.84,10.43,0.0
+25,21015,16320,High,House,22,Beginner,77.74,15.51,6.75,0.0
+41,155230,109249,Low,Wealth Creation,22,Beginner,28.29,63.32,8.39,0.0
+55,290846,218709,High,Wealth Creation,21,Expert,72.76,16.18,11.07,0.0
+51,160932,98891,Low,Retirement,23,Intermediate,22.69,59.38,10.77,7.16
+34,58765,19677,High,Education,19,Expert,80.58,7.58,11.84,0.0
+52,112193,69844,Medium,House,8,Beginner,51.99,38.52,9.49,0.0
+23,114074,66271,Medium,House,12,Beginner,59.11,33.79,7.1,0.0
+37,35254,22046,Low,House,5,Expert,21.58,71.64,6.78,0.0
+58,98587,69225,Low,Education,6,Beginner,21.33,69.99,8.67,0.0
+54,270875,151652,Medium,House,10,Beginner,48.42,32.98,6.54,12.07
+30,145911,58161,Medium,Retirement,2,Beginner,43.62,48.08,8.3,0.0
+43,231791,141311,High,Retirement,11,Beginner,71.64,12.64,7.6,8.13
+23,234879,172033,Low,House,27,Beginner,28.2,61.61,10.2,0.0
+39,77108,44640,Medium,Education,18,Beginner,63.65,26.9,9.45,0.0
+21,167979,69170,Low,House,14,Beginner,19.57,62.2,12.03,6.2
+42,279127,202569,Medium,Education,29,Expert,51.77,39.51,8.72,0.0
+55,238803,71942,High,Education,24,Beginner,72.4,11.32,7.79,8.48
+46,286765,222227,Low,House,3,Expert,25.65,65.96,8.39,0.0
+38,125977,61126,Medium,Retirement,3,Beginner,60.9,28.07,11.03,0.0
+48,241897,73631,High,Wealth Creation,25,Beginner,79.85,5.06,8.59,6.51
+33,128099,45990,Medium,Education,3,Expert,58.54,32.7,8.75,0.0
+42,230977,82203,Medium,Wealth Creation,8,Beginner,52.63,31.83,7.01,8.52
+46,68447,30701,Medium,House,27,Intermediate,63.92,28.12,7.96,0.0
+42,136421,42531,Medium,Education,23,Beginner,57.32,34.89,7.79,0.0
+50,164990,76943,Medium,Wealth Creation,9,Intermediate,44.27,32.45,7.5,15.77
+51,36389,19575,High,Retirement,28,Beginner,84.79,4.23,10.98,0.0
+50,295378,142054,Low,Wealth Creation,15,Beginner,21.63,58.46,12.21,7.69
+46,84323,51682,Low,Education,20,Beginner,25.39,64.69,9.93,0.0
+46,261983,121127,Low,Wealth Creation,5,Expert,16.95,66.14,6.36,10.54
+26,262353,144250,Medium,Retirement,5,Beginner,40.95,39.49,6.56,13.0
+21,152414,108800,Low,Wealth Creation,9,Expert,23.6,68.28,8.11,0.0
+55,62078,26607,High,Education,5,Intermediate,76.48,18.25,5.27,0.0
+31,216513,149508,Low,Retirement,3,Expert,11.32,66.75,8.11,13.82
+28,277802,141936,High,Wealth Creation,14,Intermediate,74.23,13.03,6.61,6.13
+34,145501,64261,Low,Wealth Creation,25,Beginner,28.74,58.75,12.51,0.0
+59,180359,93818,Low,Wealth Creation,19,Expert,22.19,57.01,9.58,11.23
+37,185088,66772,High,House,23,Beginner,77.63,5.04,7.6,9.73
+26,74917,49677,Low,Wealth Creation,7,Beginner,23.12,70.45,6.43,0.0
+49,287552,145644,Medium,House,7,Beginner,45.85,35.59,7.81,10.75
+47,233942,72518,Medium,Retirement,4,Beginner,49.21,33.75,8.98,8.06
+58,174782,81920,Medium,Education,4,Intermediate,49.57,32.36,7.58,10.49
+49,34382,13205,High,Wealth Creation,13,Beginner,78.71,11.86,9.44,0.0
+56,150330,116414,Medium,Wealth Creation,11,Beginner,66.84,24.81,8.35,0.0
+43,96077,53761,Low,Education,12,Expert,32.13,58.61,9.26,0.0
+53,208014,154155,Medium,Retirement,28,Expert,64.47,22.42,13.1,0.0
+25,80279,62810,Low,Wealth Creation,10,Beginner,24.96,66.54,8.5,0.0
+49,195399,127523,Medium,Education,22,Beginner,64.63,20.4,8.26,6.72
+56,144085,62481,Medium,Wealth Creation,1,Intermediate,49.27,40.97,9.76,0.0
+41,162766,105093,High,Wealth Creation,21,Expert,71.98,14.0,6.41,7.61
+45,259690,151416,Low,Wealth Creation,2,Intermediate,12.14,66.96,9.79,11.1
+44,238967,117930,Low,Wealth Creation,17,Beginner,26.8,56.11,9.09,8.0
+27,66163,39664,Medium,Wealth Creation,17,Beginner,56.58,33.68,9.73,0.0
+27,226592,69736,Low,House,13,Beginner,19.56,58.71,12.26,9.47
+50,79676,51854,Low,Education,13,Intermediate,19.76,68.85,11.39,0.0
+21,84077,63481,Low,House,15,Beginner,23.53,65.23,11.23,0.0
+50,206240,114359,High,Wealth Creation,29,Intermediate,66.41,13.32,7.59,12.68
+54,203675,143076,Low,Retirement,28,Beginner,26.3,64.13,9.57,0.0
+23,96218,37384,High,Education,22,Expert,76.97,11.88,11.15,0.0
+48,121358,49982,Low,Wealth Creation,2,Beginner,15.42,76.58,8.0,0.0
+36,141300,108748,Low,House,16,Beginner,15.64,70.93,13.43,0.0
+41,204466,81418,Low,Retirement,29,Beginner,23.87,53.04,9.86,13.23
+25,107955,52364,Medium,Wealth Creation,10,Expert,62.14,29.98,7.89,0.0
+40,34596,11182,Medium,House,6,Expert,60.28,29.61,10.11,0.0
+55,277529,102321,High,Education,27,Beginner,75.46,12.66,7.55,4.32
+34,55367,20643,Medium,House,13,Beginner,62.18,25.79,12.03,0.0
+24,258009,202358,Low,House,13,Beginner,24.67,63.09,12.24,0.0
+41,208456,94189,Medium,Education,2,Expert,40.5,41.14,10.36,8.0
+42,212468,114966,High,House,25,Expert,69.49,12.92,7.41,10.18
+27,244137,132293,Medium,House,17,Intermediate,57.11,26.72,10.3,5.87
+21,170322,72268,Low,Wealth Creation,4,Expert,23.57,56.14,10.04,10.24
+56,242320,97458,Medium,Education,7,Intermediate,46.32,34.59,6.2,12.9
+42,140900,64062,Medium,Retirement,26,Intermediate,57.75,29.36,12.89,0.0
+37,141789,66594,Low,House,13,Intermediate,17.12,71.04,11.84,0.0
+29,297192,144069,High,Retirement,25,Intermediate,75.9,10.97,8.11,5.02
+57,106123,72967,High,Wealth Creation,19,Expert,78.46,12.62,8.92,0.0
+37,200553,96573,Medium,House,23,Intermediate,55.8,19.68,11.86,12.66
+51,202932,72223,High,House,23,Intermediate,69.13,10.36,9.41,11.1
+32,97454,54300,Medium,Retirement,13,Beginner,67.15,21.49,11.36,0.0
+37,163254,105252,Medium,Retirement,22,Expert,63.37,18.39,10.36,7.88
+28,61786,47933,High,Wealth Creation,29,Intermediate,74.97,14.77,10.27,0.0
+38,269321,146946,Medium,Retirement,17,Intermediate,56.89,23.97,9.57,9.57
+23,154055,66878,Medium,Retirement,23,Intermediate,49.54,25.81,10.57,14.07
+45,289708,200736,Medium,Retirement,16,Intermediate,50.43,31.9,8.58,9.09
+54,145341,73032,High,Education,13,Expert,74.69,15.43,9.88,0.0
+59,36371,23227,Medium,Retirement,17,Beginner,58.96,29.72,11.31,0.0
+30,125373,87683,Low,Education,7,Expert,20.39,73.88,5.73,0.0
+34,44951,15518,Medium,Education,4,Beginner,58.73,34.37,6.91,0.0
+35,186472,60435,High,Education,17,Intermediate,72.14,5.56,10.61,11.69
+57,258506,175210,Medium,Wealth Creation,6,Beginner,49.97,31.57,6.71,11.76
+54,199352,84067,Low,Education,20,Beginner,14.58,63.08,13.51,8.82
+30,81665,41819,High,Education,17,Beginner,77.64,13.13,9.23,0.0
+43,96898,47366,Medium,House,17,Beginner,57.11,30.01,12.89,0.0
+37,179903,61876,Medium,Education,6,Beginner,49.24,32.81,4.86,13.09
+57,261249,96048,Medium,Retirement,9,Expert,55.54,29.57,8.57,6.32
+54,114377,63505,Low,Retirement,15,Beginner,25.92,65.25,8.83,0.0
+44,53742,20255,High,Education,8,Beginner,85.49,6.21,8.3,0.0
+57,154092,87982,Medium,Retirement,5,Intermediate,59.45,21.1,9.36,10.1
+23,152663,57101,Medium,Education,2,Expert,37.29,42.95,9.08,10.69
+36,39623,14025,High,Education,1,Beginner,76.3,13.03,10.67,0.0
+45,177364,139415,Medium,House,27,Beginner,65.25,22.47,12.29,0.0
+51,67638,33004,Low,Wealth Creation,10,Intermediate,25.22,61.72,13.06,0.0
+38,146209,92707,Low,Wealth Creation,13,Intermediate,26.57,61.87,11.57,0.0
+47,148232,79301,Low,Wealth Creation,8,Beginner,16.49,74.37,9.14,0.0
+55,152079,116604,Low,Education,19,Beginner,26.14,60.75,13.11,0.0
+48,249947,175670,Medium,Education,5,Beginner,47.12,43.42,9.46,0.0
+24,278778,207430,High,Education,17,Intermediate,81.39,8.85,9.76,0.0
+38,174893,90034,Medium,Retirement,15,Beginner,55.8,26.91,6.54,10.75
+27,143786,87199,Low,Education,6,Expert,17.66,75.24,7.1,0.0
+43,31745,19168,Low,Education,2,Beginner,19.61,72.25,8.14,0.0
+59,219950,107831,Low,Wealth Creation,29,Beginner,24.76,54.03,8.18,13.02
+42,72930,49966,Medium,Education,28,Beginner,56.82,32.5,10.67,0.0
+40,68901,52866,Medium,Wealth Creation,3,Beginner,56.89,32.5,10.61,0.0
+54,199362,86239,High,Education,17,Expert,73.76,8.14,9.73,8.36
+28,225390,150587,Low,Retirement,14,Beginner,23.51,53.96,13.08,9.45
+44,166323,50422,Medium,Wealth Creation,25,Intermediate,48.75,31.86,11.11,8.28
+29,94744,33532,Medium,Retirement,21,Beginner,54.96,35.62,9.42,0.0
+33,211184,165826,Low,Education,21,Beginner,16.56,70.68,12.76,0.0
+51,177215,59318,Medium,Retirement,13,Intermediate,50.72,29.39,9.65,10.24
+44,226376,111320,Low,Wealth Creation,12,Beginner,28.56,49.8,9.94,11.71
+40,225735,90151,Medium,Wealth Creation,18,Beginner,54.19,28.93,7.88,9.01
+53,239724,184672,Medium,Education,26,Beginner,63.56,24.58,11.86,0.0
+35,216713,74091,Medium,Retirement,12,Intermediate,50.54,32.16,11.5,5.8
+26,137832,67364,Low,Wealth Creation,9,Expert,21.36,69.77,8.87,0.0
+40,44826,15877,High,Wealth Creation,7,Beginner,78.61,13.36,8.03,0.0
+42,225209,101224,Medium,Retirement,3,Beginner,48.86,27.87,8.61,14.66
+32,161398,49979,Medium,Retirement,13,Beginner,55.73,23.17,9.06,12.05
+49,130198,41415,Medium,Wealth Creation,23,Intermediate,61.61,28.65,9.74,0.0
+39,282805,87761,Low,Retirement,27,Beginner,25.14,56.21,12.03,6.62
+35,79321,24752,High,Retirement,24,Beginner,81.77,9.27,8.95,0.0
+40,286847,158153,Medium,Wealth Creation,26,Beginner,53.49,23.87,10.14,12.5
+26,299922,132205,Low,Retirement,29,Intermediate,15.54,60.33,10.9,13.23
+55,39975,24757,High,Wealth Creation,23,Beginner,81.73,9.12,9.15,0.0
+57,84324,29945,Medium,Education,22,Expert,63.96,26.35,9.7,0.0
+45,121459,77526,High,Retirement,7,Intermediate,76.72,12.21,11.07,0.0
+22,164832,71376,Low,Wealth Creation,12,Beginner,14.27,67.71,10.05,7.98
+23,53397,32672,Medium,House,16,Expert,61.16,26.55,12.29,0.0
+21,265011,159033,Low,Retirement,12,Beginner,27.02,57.24,9.35,6.4
+57,202958,132539,Medium,House,12,Expert,49.71,30.31,10.07,9.91
+35,169381,51433,Medium,Retirement,27,Beginner,53.46,26.3,8.38,11.86
+40,282425,216857,High,House,6,Beginner,85.28,7.87,6.86,0.0
+34,139273,83016,Medium,Education,21,Beginner,59.31,32.99,7.7,0.0
+45,166470,106444,Medium,Education,15,Intermediate,58.05,25.29,10.11,6.55
+36,21969,7481,Low,Education,23,Expert,18.81,66.54,14.65,0.0
+49,125823,51415,Medium,Education,5,Intermediate,63.95,27.09,8.96,0.0
+46,145354,99015,Medium,Wealth Creation,18,Expert,56.97,33.28,9.75,0.0
+32,193895,95376,Medium,House,14,Intermediate,54.42,24.42,9.92,11.24
+25,178056,61541,Low,Education,28,Intermediate,14.85,60.9,9.36,14.89
+45,131279,66591,Low,House,21,Beginner,22.61,64.74,12.65,0.0
+58,49165,16416,Medium,House,6,Expert,50.7,39.54,9.76,0.0
+43,176498,70721,High,House,11,Beginner,74.68,7.97,9.59,7.76
+21,47723,19122,Medium,Wealth Creation,15,Intermediate,63.4,26.72,9.88,0.0
+52,99973,74289,Low,Wealth Creation,3,Beginner,14.88,74.67,10.45,0.0
+29,127522,60868,Medium,Wealth Creation,26,Beginner,59.16,30.29,10.54,0.0
+49,283321,220828,Low,Wealth Creation,12,Intermediate,17.67,71.53,10.81,0.0
+56,232781,129723,High,Wealth Creation,12,Intermediate,83.86,4.3,7.23,4.6
+35,148803,53546,Medium,Wealth Creation,19,Beginner,50.98,39.17,9.85,0.0
+54,157084,97240,Low,Retirement,16,Beginner,19.9,57.83,11.81,10.46
+28,141999,97290,Low,Wealth Creation,18,Beginner,19.28,68.55,12.18,0.0
+50,250662,189212,Low,Wealth Creation,12,Expert,17.72,68.93,13.35,0.0
+56,127971,50540,Medium,Education,7,Expert,61.6,30.05,8.35,0.0
+33,231830,134978,Medium,House,22,Intermediate,51.98,26.95,10.3,10.77
+44,96153,67365,Low,Education,29,Beginner,27.43,62.23,10.34,0.0
+47,54084,38308,Medium,Education,18,Beginner,57.91,32.11,9.98,0.0
+45,254386,157886,Low,House,10,Intermediate,16.99,62.53,7.94,12.53
+54,299158,170279,Low,Retirement,17,Beginner,17.48,63.45,10.22,8.85
+31,77993,32557,Low,House,14,Expert,28.5,61.25,10.25,0.0
+55,24358,19228,Low,Wealth Creation,3,Intermediate,19.77,69.99,10.24,0.0
+31,213510,93424,Medium,Wealth Creation,14,Expert,48.75,32.68,10.42,8.15
+56,132356,53916,High,House,9,Beginner,82.49,9.69,7.82,0.0
+24,136492,105262,Medium,Education,2,Beginner,54.08,34.06,11.87,0.0
+28,185575,129466,Medium,Retirement,22,Beginner,55.28,29.54,8.96,6.22
+22,145541,102238,High,Retirement,3,Beginner,82.17,12.36,5.47,0.0
+56,62828,34684,Low,House,15,Expert,18.73,71.48,9.79,0.0
+36,88619,55913,High,Retirement,16,Intermediate,76.22,13.49,10.3,0.0
+43,122747,92746,Low,Retirement,8,Expert,12.28,77.18,10.54,0.0
+21,233277,168435,Low,House,20,Intermediate,27.06,59.24,13.7,0.0
+53,96559,39666,High,House,6,Expert,85.53,7.46,7.01,0.0
+43,239249,156102,Medium,Retirement,21,Intermediate,53.37,23.06,9.87,13.7
+43,38073,14688,Medium,House,18,Intermediate,55.69,34.77,9.54,0.0
+42,222043,131224,High,Wealth Creation,20,Beginner,66.8,14.98,6.66,11.57
+55,211703,108543,Medium,House,14,Beginner,57.01,29.76,7.87,5.36
+41,288865,107268,Low,Education,3,Beginner,14.31,65.5,7.73,12.46
+45,49984,35638,Medium,House,14,Intermediate,50.95,36.99,12.07,0.0
+23,186370,107023,High,House,6,Beginner,76.29,11.81,6.0,5.91
+45,51822,29437,Medium,House,13,Intermediate,55.73,35.16,9.1,0.0
+33,225342,101215,High,Retirement,20,Beginner,77.7,5.67,9.77,6.85
+22,254555,169188,Low,House,19,Expert,19.83,62.96,9.08,8.12
+31,197404,151283,High,Retirement,24,Intermediate,81.12,10.72,8.16,0.0
+41,222056,116947,Medium,Retirement,14,Expert,49.13,32.37,7.77,10.73
+59,74823,45758,Medium,Retirement,5,Intermediate,60.43,30.19,9.38,0.0
+58,269062,137727,Medium,Retirement,5,Beginner,56.95,28.6,5.89,8.56
+48,119853,67129,Low,Education,5,Intermediate,17.31,75.86,6.84,0.0
+47,26548,10257,Medium,Retirement,6,Beginner,52.5,40.9,6.6,0.0
+59,242084,168945,Medium,Retirement,13,Beginner,48.38,24.42,12.98,14.22
+52,282307,126116,Low,House,3,Beginner,15.19,68.34,8.14,8.32
+46,30749,15051,Low,Education,2,Expert,11.69,80.01,8.29,0.0
+49,276553,200325,Low,Education,9,Intermediate,13.66,74.83,11.51,0.0
+22,23631,13261,Medium,Wealth Creation,1,Intermediate,55.14,31.67,13.18,0.0
+41,273211,209697,Medium,Retirement,2,Beginner,46.76,44.65,8.59,0.0
+37,27099,12055,Medium,Education,24,Beginner,66.57,20.89,12.54,0.0
+43,243332,114990,Medium,Retirement,13,Expert,45.02,31.56,10.34,13.08
+55,121015,47584,Medium,Wealth Creation,5,Intermediate,58.86,32.56,8.58,0.0
+56,221139,169975,High,House,7,Beginner,82.27,10.53,7.2,0.0
+25,124797,96820,Medium,Education,8,Expert,63.69,28.71,7.61,0.0
+48,168702,111673,Medium,House,8,Intermediate,56.83,29.92,6.53,6.73
+24,193672,117661,Low,Wealth Creation,25,Expert,21.86,50.65,13.11,14.38
+32,299297,149554,Low,Education,13,Beginner,20.27,57.49,10.87,11.37
+31,167977,96231,High,Wealth Creation,17,Intermediate,78.14,6.4,7.53,7.92
+45,197876,136333,Medium,Education,19,Beginner,55.36,25.82,7.35,11.47
+59,57643,34932,Low,House,15,Beginner,18.26,70.54,11.2,0.0
+28,118605,59492,Low,Retirement,14,Intermediate,26.9,64.19,8.91,0.0
+42,78005,44115,Medium,Wealth Creation,25,Beginner,70.84,20.58,8.58,0.0
+49,139246,97504,Medium,Education,27,Beginner,65.38,26.85,7.77,0.0
+33,23754,17786,Low,Wealth Creation,29,Beginner,26.8,64.53,8.67,0.0
+43,202684,90530,Medium,Education,7,Beginner,50.11,36.5,6.97,6.42
+36,75147,48404,Medium,House,3,Expert,67.36,24.75,7.89,0.0
+54,261130,146395,Medium,Education,10,Expert,48.49,32.1,8.91,10.5
+33,137235,88871,Medium,Retirement,10,Intermediate,63.72,23.9,12.38,0.0
+34,165016,69377,Medium,House,21,Intermediate,56.76,26.02,8.44,8.78
+39,120483,45740,High,House,4,Beginner,75.16,17.31,7.54,0.0
+57,123892,50276,Low,Retirement,8,Beginner,18.35,73.21,8.44,0.0
+40,88099,62489,Medium,Retirement,14,Expert,68.15,22.61,9.24,0.0
+24,129079,38884,Low,Wealth Creation,18,Beginner,27.93,60.58,11.49,0.0
+39,62092,48398,Low,Retirement,26,Beginner,24.79,64.72,10.48,0.0
+56,287613,115137,Low,Education,17,Beginner,21.66,55.57,9.66,13.1
+31,53787,37757,Low,Wealth Creation,13,Beginner,17.37,70.75,11.88,0.0
+47,181326,138442,Medium,Education,28,Expert,57.84,31.2,10.96,0.0
+30,185937,102631,High,House,13,Beginner,71.69,10.24,8.19,9.88
+39,103369,56132,Medium,Retirement,14,Expert,58.95,29.84,11.21,0.0
+40,153168,71229,Low,Retirement,5,Beginner,20.09,61.09,5.12,13.7
+55,284983,154414,Medium,Retirement,4,Beginner,59.54,24.95,8.67,6.84
+51,87155,40121,Low,Wealth Creation,25,Intermediate,33.35,57.58,9.07,0.0
+50,160629,123159,Medium,Education,7,Intermediate,50.32,42.69,7.0,0.0
+36,251390,85250,Medium,Wealth Creation,25,Beginner,64.28,20.18,9.93,5.61
+40,37073,15121,Low,Wealth Creation,27,Beginner,19.68,71.96,8.36,0.0
+31,86707,37930,Low,House,16,Beginner,32.47,56.37,11.16,0.0
+34,271924,109805,Medium,Education,3,Expert,58.54,25.59,7.19,8.69
+41,49055,24839,Medium,Education,25,Intermediate,62.35,23.88,13.76,0.0
+27,184437,74777,Low,House,1,Expert,13.65,62.83,10.16,13.36
+59,65232,40577,Medium,Wealth Creation,2,Beginner,42.45,46.73,10.81,0.0
+41,103457,45394,High,Retirement,16,Beginner,81.66,6.23,12.11,0.0
+59,113269,42515,Medium,House,15,Intermediate,56.93,33.49,9.58,0.0
+52,163891,124072,High,House,4,Expert,80.99,12.93,6.09,0.0
+41,20781,13782,Medium,Wealth Creation,9,Intermediate,54.47,37.25,8.29,0.0
+22,101816,52807,Medium,House,3,Beginner,60.33,31.91,7.76,0.0
+26,199635,86280,Medium,Wealth Creation,25,Beginner,59.54,22.22,10.39,7.85
+32,81001,57543,Medium,House,9,Intermediate,55.29,35.06,9.64,0.0
+35,239055,139537,High,House,8,Intermediate,74.24,11.53,7.67,6.56
+36,26530,19075,Low,House,3,Intermediate,27.8,63.27,8.93,0.0
+48,270870,170348,Medium,Retirement,8,Beginner,54.54,31.18,5.43,8.86
+26,288050,220078,Low,House,9,Expert,23.97,65.33,10.69,0.0
+41,139052,98196,Medium,House,4,Beginner,55.6,36.72,7.68,0.0
+47,291896,142994,Medium,Education,1,Intermediate,34.08,48.11,7.26,10.55
+55,166108,127107,Low,Retirement,29,Expert,18.7,72.41,8.89,0.0
+31,238561,123710,High,Wealth Creation,12,Expert,71.78,8.21,8.33,11.68
+48,210237,132686,Medium,Wealth Creation,21,Intermediate,54.15,22.79,12.34,10.72
+54,196168,130836,Medium,Retirement,15,Beginner,49.59,29.88,9.44,11.08
+37,92516,45812,Medium,Wealth Creation,15,Beginner,62.89,23.54,13.57,0.0
+54,152161,82994,High,Education,8,Intermediate,66.62,15.59,5.97,11.83
+21,41447,16264,High,House,23,Beginner,78.18,9.71,12.1,0.0
+58,132782,49362,High,Retirement,21,Intermediate,75.39,13.82,10.79,0.0
+37,118696,80506,Medium,House,28,Expert,63.14,24.43,12.42,0.0
+47,87990,44158,Medium,Education,24,Intermediate,62.82,26.5,10.69,0.0
+55,197810,131021,Medium,House,14,Beginner,62.51,21.0,10.44,6.04
+58,54518,37496,Low,Education,16,Expert,23.54,64.9,11.56,0.0
+39,287219,114530,Medium,House,9,Beginner,44.83,35.59,6.23,13.35
+34,275095,132613,Low,Education,21,Beginner,24.9,58.43,10.26,6.41
+45,115028,85422,Medium,Wealth Creation,9,Beginner,53.42,40.49,6.09,0.0
+24,201211,75212,High,Wealth Creation,9,Beginner,69.58,9.82,9.66,10.94
+36,55292,25864,Medium,Wealth Creation,17,Intermediate,59.61,30.5,9.89,0.0
+41,69812,34558,High,Retirement,20,Beginner,77.8,11.3,10.89,0.0
+29,247208,120565,Low,House,3,Intermediate,20.77,62.54,7.27,9.42
+32,157653,119148,Low,Education,15,Beginner,18.37,70.8,10.83,0.0
+42,165639,130095,Low,House,19,Intermediate,20.91,67.47,11.62,0.0
+27,250147,162489,Medium,Wealth Creation,12,Intermediate,51.04,27.74,10.96,10.26
+21,183399,97089,High,Retirement,6,Expert,72.38,9.61,7.42,10.6
+46,155450,87218,Medium,Wealth Creation,19,Beginner,48.14,34.1,8.32,9.44
+34,287554,169641,Low,House,13,Beginner,19.27,56.95,9.91,13.86
+28,245683,176995,Low,Education,1,Beginner,11.59,79.78,8.63,0.0
+29,156535,117408,Medium,Retirement,9,Beginner,58.47,31.78,9.75,0.0
+59,90028,49215,High,Education,11,Intermediate,76.53,11.17,12.3,0.0
+21,28210,20058,Low,Retirement,8,Beginner,24.61,67.0,8.38,0.0
+53,277324,217590,High,Education,5,Expert,76.66,17.15,6.2,0.0
+43,154832,68639,Low,Education,20,Beginner,25.41,53.56,10.15,10.88
+38,249010,109245,Medium,Education,28,Beginner,52.16,31.81,8.39,7.64
+59,161130,122976,Medium,Wealth Creation,18,Intermediate,62.82,26.81,10.37,0.0
+23,276453,142993,High,Retirement,21,Beginner,80.96,4.78,8.57,5.69
+37,269768,175405,Medium,Education,3,Intermediate,53.37,23.63,7.62,15.37
+51,256440,149914,Medium,House,24,Expert,52.41,29.84,9.4,8.35
+55,251496,112236,Medium,House,6,Beginner,52.17,27.06,8.41,12.37
+48,203467,100798,Low,Education,9,Beginner,18.4,63.02,8.84,9.74
+56,148379,90247,Medium,House,2,Intermediate,44.93,46.61,8.46,0.0
+21,244448,157860,Low,Wealth Creation,20,Beginner,19.56,63.99,10.48,5.97
+51,198570,70691,Low,Education,6,Beginner,21.97,58.66,8.91,10.45
+58,115040,51950,Low,House,4,Beginner,14.2,78.83,6.97,0.0
+44,244834,194356,High,House,13,Intermediate,86.78,5.46,7.77,0.0
+47,228434,94947,Low,Retirement,6,Beginner,21.14,58.61,6.38,13.87
+57,224923,75512,Low,Wealth Creation,3,Beginner,21.33,56.75,8.35,13.57
+33,251312,134893,Low,Retirement,16,Beginner,22.39,59.03,8.85,9.73
+42,156570,123089,Low,Education,19,Beginner,19.33,68.59,12.08,0.0
+41,195021,140808,Medium,Education,12,Expert,53.54,35.88,10.59,0.0
+21,119931,66633,Medium,Retirement,24,Beginner,67.49,21.18,11.33,0.0
+56,214994,103918,High,Wealth Creation,17,Intermediate,74.43,7.27,7.33,10.97
+39,97988,78376,High,House,8,Beginner,76.82,14.17,9.01,0.0
+39,226846,107028,Medium,House,27,Intermediate,54.07,26.19,8.17,11.57
+41,64789,42358,Medium,Education,7,Beginner,50.14,42.34,7.53,0.0
+32,33893,11049,Low,House,19,Expert,25.3,60.69,14.01,0.0
+26,92805,55905,High,Wealth Creation,24,Intermediate,76.99,12.02,10.99,0.0
+37,206292,131225,Medium,Education,18,Expert,50.9,27.3,9.43,12.37
+55,170575,99628,High,Education,8,Intermediate,70.25,9.92,7.9,11.92
+39,60510,34318,High,Wealth Creation,3,Beginner,78.06,13.36,8.58,0.0
+51,110102,84949,Medium,House,18,Intermediate,57.07,31.82,11.12,0.0
+30,173385,78958,Medium,House,21,Intermediate,51.96,32.52,8.4,7.12
+50,97842,39855,Medium,House,26,Beginner,67.2,25.17,7.64,0.0
+21,183864,64923,Low,Education,1,Intermediate,9.01,64.28,11.29,15.42
+29,31390,17865,Low,Wealth Creation,4,Expert,25.76,65.45,8.79,0.0
+54,74189,30861,Medium,House,6,Intermediate,54.09,36.34,9.57,0.0
+33,261324,88604,Low,Retirement,2,Beginner,8.27,66.97,10.94,13.83
+37,79766,36378,Medium,Wealth Creation,10,Beginner,54.6,36.0,9.41,0.0
+46,197164,122820,Medium,Retirement,15,Intermediate,49.08,33.84,9.09,8.0
+47,253077,177007,Medium,Wealth Creation,7,Beginner,51.04,25.27,8.45,15.24
+41,142258,103879,Medium,Education,25,Beginner,65.5,23.07,11.43,0.0
+52,58333,41124,Medium,House,10,Intermediate,57.75,31.82,10.42,0.0
+34,182993,71134,High,Retirement,20,Intermediate,76.19,8.2,9.57,6.04
+43,222193,141420,Medium,Education,23,Beginner,45.36,32.35,10.62,11.67
+32,74238,45816,High,Education,29,Beginner,79.45,9.01,11.54,0.0
+43,82551,38852,Low,Retirement,9,Expert,16.91,77.03,6.06,0.0
+48,254104,95239,Medium,Retirement,11,Intermediate,47.76,31.72,8.19,12.33
+35,111218,35589,Medium,Education,6,Expert,51.53,42.57,5.9,0.0
+43,190201,119428,Low,House,28,Beginner,23.1,62.14,7.57,7.19
+41,118538,50933,Medium,Retirement,5,Intermediate,56.88,33.77,9.35,0.0
+45,222440,145088,Medium,Wealth Creation,20,Intermediate,57.39,27.75,6.79,8.07
+59,170043,76611,High,Wealth Creation,9,Beginner,73.01,6.53,8.01,12.45
+27,22257,17657,Medium,House,13,Expert,57.17,33.3,9.53,0.0
+58,138581,76347,Medium,Wealth Creation,1,Intermediate,47.21,46.54,6.25,0.0
+29,38135,26049,Medium,House,3,Beginner,53.74,38.17,8.09,0.0
+21,80948,57286,Low,Retirement,3,Expert,20.97,69.69,9.34,0.0
+30,213069,92092,Medium,Retirement,5,Beginner,49.33,31.15,7.24,12.28
+55,202885,161233,Medium,Retirement,12,Beginner,67.49,21.49,11.02,0.0
+56,152473,60934,High,Education,6,Expert,75.99,11.2,6.0,6.82
+48,284889,140709,Low,Wealth Creation,27,Beginner,24.26,54.91,10.55,10.27
+57,49336,23024,Low,Education,23,Beginner,24.53,64.35,11.12,0.0
+36,206740,82985,Low,House,13,Intermediate,24.97,55.57,6.56,12.9
+53,48151,28212,Low,Retirement,13,Beginner,23.31,66.96,9.73,0.0
+49,112769,55559,Low,House,28,Beginner,25.0,61.23,13.77,0.0
+24,132217,61272,Low,Retirement,9,Beginner,16.48,73.51,10.01,0.0
+31,81215,40980,Medium,Retirement,17,Intermediate,62.62,27.53,9.85,0.0
+46,133688,86579,Medium,Wealth Creation,27,Expert,64.15,23.35,12.5,0.0
+24,289150,160963,High,Retirement,1,Expert,57.77,23.69,7.41,11.13
+51,270541,117243,Medium,Education,26,Intermediate,55.57,21.34,11.94,11.15
+53,227793,95382,High,Retirement,27,Intermediate,71.22,7.49,9.48,11.8
+26,215877,109368,Medium,Retirement,22,Expert,57.26,26.25,7.45,9.04
+23,63527,30749,High,House,13,Expert,72.31,15.83,11.86,0.0
+33,67153,34124,High,Retirement,12,Beginner,83.04,6.42,10.54,0.0
+46,25451,12893,Low,Education,5,Beginner,19.76,73.84,6.4,0.0
+38,148389,103143,Medium,Wealth Creation,12,Beginner,57.15,31.95,10.9,0.0
+36,75745,28089,Medium,Retirement,8,Beginner,53.14,36.3,10.56,0.0
+50,113783,56491,Medium,Retirement,29,Beginner,68.52,22.7,8.78,0.0
+57,159227,116887,Low,Retirement,28,Beginner,18.63,71.14,10.23,0.0
+22,171094,94791,Medium,Education,16,Beginner,51.93,28.97,8.05,11.05
+33,88323,50312,Low,House,22,Beginner,19.28,67.58,13.14,0.0
+52,127096,65356,Low,House,7,Intermediate,18.95,70.38,10.67,0.0
+55,23696,18730,High,House,27,Intermediate,75.73,12.59,11.68,0.0
+49,268922,147317,Medium,Wealth Creation,4,Beginner,47.8,31.94,7.88,12.38
+43,138474,50798,Medium,Wealth Creation,9,Beginner,49.84,43.75,6.42,0.0
+49,207647,65165,High,Wealth Creation,19,Beginner,75.3,8.29,10.42,5.99
+27,240462,115136,Medium,Education,7,Beginner,53.2,26.19,8.24,12.37
+40,277927,176708,Medium,Retirement,16,Beginner,64.37,22.27,7.54,5.83
+35,198048,139992,Low,House,15,Intermediate,26.19,64.51,9.3,0.0
+54,39991,22772,High,Wealth Creation,10,Intermediate,78.7,12.3,9.0,0.0
+43,274205,119305,High,Wealth Creation,9,Beginner,72.7,12.58,8.51,6.2
+30,239526,184087,Medium,Retirement,6,Intermediate,51.3,36.69,12.01,0.0
+42,228859,180092,Medium,Retirement,6,Beginner,57.8,34.71,7.49,0.0
+33,113526,85058,Medium,Retirement,18,Beginner,60.85,31.26,7.89,0.0
+34,237583,173028,Low,Retirement,15,Intermediate,24.85,64.13,11.01,0.0
+41,284852,103830,High,Retirement,17,Beginner,75.39,9.53,10.16,4.91
+54,98077,38135,High,Retirement,17,Beginner,87.34,4.79,7.87,0.0
+24,239571,150829,Medium,House,25,Beginner,47.85,28.68,11.13,12.34
+56,53872,26889,Medium,Education,24,Beginner,62.31,27.87,9.83,0.0
+26,85942,39471,Low,Retirement,7,Intermediate,26.84,67.09,6.08,0.0
+49,41644,16850,Medium,House,20,Expert,59.87,30.53,9.6,0.0
+32,169359,50981,Medium,Retirement,13,Intermediate,60.42,25.1,8.3,6.18
+52,149887,78885,High,Retirement,4,Intermediate,83.3,6.16,10.54,0.0
+34,201517,130760,Medium,House,29,Beginner,48.18,29.3,9.92,12.59
+53,161650,67119,Low,Wealth Creation,5,Beginner,19.43,62.9,5.51,12.16
+55,203887,66152,Low,House,11,Intermediate,28.22,53.41,9.55,8.82
+42,237400,157208,Medium,Education,8,Beginner,45.61,32.93,7.96,13.5
+39,293586,134364,Medium,House,20,Beginner,61.68,19.85,10.22,8.26
+31,112036,65636,Medium,Wealth Creation,12,Expert,62.45,26.0,11.55,0.0
+34,174692,53294,High,Retirement,27,Intermediate,75.26,5.34,8.22,11.17
+22,104526,39203,High,Wealth Creation,4,Beginner,76.89,15.24,7.87,0.0
+43,95277,51325,Low,Wealth Creation,19,Intermediate,26.12,60.85,13.03,0.0
+44,71913,50813,Medium,Wealth Creation,8,Expert,53.27,39.13,7.6,0.0
+26,257113,172689,Medium,Retirement,28,Expert,50.89,30.1,10.13,8.88
+47,238800,99870,Low,House,27,Beginner,21.57,55.81,11.0,11.62
+44,96361,51601,Low,Retirement,22,Intermediate,17.38,72.4,10.21,0.0
+58,232954,138022,Medium,Education,22,Beginner,57.28,25.35,7.2,10.17
+54,264629,207521,Medium,Retirement,15,Beginner,60.73,28.12,11.16,0.0
+26,196872,96024,Medium,Retirement,27,Intermediate,52.66,30.95,10.81,5.58
+30,166510,98395,Low,House,22,Expert,28.27,48.14,11.59,12.0
+50,269880,136240,Medium,Wealth Creation,28,Expert,55.13,23.79,11.14,9.94
+39,284064,191340,Medium,Education,4,Beginner,53.08,31.49,8.47,6.96
+58,102289,81656,Medium,Education,22,Intermediate,55.26,36.72,8.01,0.0
+45,282043,153824,Low,Retirement,27,Expert,25.72,50.64,11.15,12.48
+40,214028,158071,Medium,House,7,Beginner,48.75,41.62,9.64,0.0
+53,239128,93607,Medium,Retirement,5,Beginner,43.37,39.9,7.07,9.65
+53,106346,33454,High,Retirement,18,Beginner,79.6,8.99,11.41,0.0
+39,297068,202263,Medium,Retirement,14,Beginner,51.14,26.42,8.02,14.42
+28,102409,53970,Medium,Education,9,Beginner,50.84,41.47,7.68,0.0
+48,163927,69203,High,Retirement,11,Beginner,70.61,13.01,7.84,8.54
+57,242542,119957,Medium,Retirement,18,Intermediate,62.24,23.3,9.23,5.23
+24,117493,64174,Medium,House,7,Beginner,51.03,37.01,11.96,0.0
+35,158368,72908,Medium,Education,3,Beginner,51.16,35.14,6.69,7.0
+49,266404,180257,Low,Education,10,Expert,21.37,57.49,9.39,11.74
+39,270819,93601,Low,Education,1,Expert,11.56,68.22,8.54,11.68
+41,146270,70370,Medium,House,20,Beginner,60.66,31.58,7.76,0.0
+52,82061,63507,Medium,Wealth Creation,17,Expert,54.34,34.44,11.22,0.0
+41,151208,62775,High,Education,19,Beginner,73.86,7.58,7.91,10.65
+43,96240,67859,Low,House,23,Intermediate,23.83,67.13,9.04,0.0
+29,283844,178935,High,Wealth Creation,13,Beginner,75.45,8.37,8.16,8.03
+41,143364,84614,High,Retirement,12,Beginner,85.46,6.89,7.65,0.0
+37,90269,58034,Low,House,10,Beginner,27.06,61.09,11.85,0.0
+56,49345,28348,Low,Education,28,Beginner,22.3,66.35,11.36,0.0
+39,23453,11542,Medium,Retirement,24,Beginner,60.8,29.6,9.59,0.0
+53,69170,35416,Low,Education,8,Beginner,25.2,65.59,9.21,0.0
+33,207125,64057,Low,Education,2,Beginner,7.13,74.7,8.36,9.81
+49,57158,36218,Medium,Retirement,24,Beginner,65.88,24.15,9.97,0.0
+23,181081,54516,Medium,Wealth Creation,17,Beginner,52.07,30.3,9.4,8.23
+49,56468,27595,Medium,House,26,Beginner,63.25,23.2,13.55,0.0
+21,128117,53106,Low,Wealth Creation,9,Expert,20.84,68.36,10.8,0.0
+34,293820,223652,Medium,Retirement,19,Beginner,59.24,31.96,8.8,0.0
+50,43185,23629,Medium,Retirement,16,Beginner,63.31,24.44,12.25,0.0
+56,138094,66735,Medium,Education,20,Beginner,67.38,22.36,10.27,0.0
+35,196348,92306,High,Wealth Creation,10,Intermediate,73.48,8.54,9.0,8.98
+24,42010,15493,Low,House,26,Beginner,19.19,70.63,10.18,0.0
+22,291421,135434,High,House,28,Beginner,81.96,5.55,7.22,5.27
+56,172711,116525,High,House,26,Expert,72.27,9.98,7.57,10.18
+37,83972,49446,Medium,House,12,Beginner,67.51,23.56,8.92,0.0
+48,54693,19379,Medium,Wealth Creation,26,Intermediate,60.57,29.97,9.45,0.0
+46,217097,109645,Medium,House,21,Expert,57.76,20.76,9.35,12.13
+36,36999,17043,Medium,Wealth Creation,8,Beginner,52.75,37.77,9.48,0.0
+30,130986,75341,Medium,Retirement,16,Beginner,53.67,35.86,10.47,0.0
+46,27485,21925,Medium,Retirement,6,Expert,54.99,35.53,9.49,0.0
+21,182781,102622,Medium,Wealth Creation,28,Beginner,53.81,22.85,10.2,13.14
+30,265172,122946,High,Retirement,23,Beginner,70.77,11.49,8.26,9.48
+53,110880,37012,Low,Retirement,22,Beginner,14.34,75.47,10.2,0.0
+25,170331,87058,Low,Wealth Creation,14,Intermediate,22.41,51.75,11.7,14.14
+49,98278,41874,Low,Education,13,Beginner,26.45,64.69,8.86,0.0
+58,95403,69878,High,Retirement,29,Intermediate,76.73,13.42,9.85,0.0
+47,197826,87649,Medium,House,16,Beginner,59.53,22.83,7.98,9.66
+31,134589,54710,High,Retirement,28,Beginner,85.38,7.59,7.03,0.0
+34,187679,139481,Medium,Education,26,Beginner,58.16,30.16,11.68,0.0
+30,96312,61728,Medium,Retirement,29,Expert,58.27,31.31,10.42,0.0
+45,133711,51207,High,Education,24,Expert,80.28,9.57,10.15,0.0
+25,130130,61203,High,Retirement,12,Beginner,76.41,14.96,8.63,0.0
+58,99768,55543,Medium,Retirement,11,Intermediate,60.82,30.92,8.26,0.0
+38,198646,150644,Medium,House,5,Intermediate,49.0,39.22,11.77,0.0
+30,20917,16341,High,Retirement,1,Expert,71.88,20.33,7.79,0.0
+32,81169,47820,Medium,Education,17,Beginner,68.92,23.25,7.83,0.0
+53,223834,170616,Low,Education,15,Beginner,25.84,61.87,12.29,0.0
+23,208505,67764,Medium,Wealth Creation,13,Expert,48.21,28.8,8.53,14.46
+46,276875,105501,Medium,Education,11,Expert,57.38,23.6,11.59,7.43
+40,45517,26772,Low,Retirement,11,Intermediate,16.76,70.02,13.22,0.0
+47,125686,60320,Low,Retirement,9,Beginner,29.35,59.5,11.15,0.0
+51,207655,96294,Medium,Education,21,Beginner,49.59,26.27,8.02,16.12
+37,55903,23723,Medium,House,29,Beginner,58.68,31.91,9.41,0.0
+54,220753,98326,High,Wealth Creation,24,Intermediate,71.61,6.57,7.51,14.31
+28,205639,98790,High,Education,24,Beginner,75.25,7.33,10.2,7.23
+30,273347,98355,Low,Education,4,Intermediate,14.07,70.78,6.13,9.01
+44,97694,45043,Low,House,23,Intermediate,15.2,72.13,12.68,0.0
+52,292836,133391,Low,Education,10,Expert,19.91,59.87,11.46,8.76
+43,272084,202640,Medium,Retirement,2,Beginner,42.89,47.3,9.81,0.0
+32,93616,49986,Medium,Wealth Creation,10,Expert,52.45,34.86,12.69,0.0
+37,121407,71630,Medium,Wealth Creation,8,Expert,60.21,30.34,9.45,0.0
+36,231144,135325,Low,Retirement,12,Beginner,18.7,59.22,8.68,13.4
+38,293295,132727,High,Wealth Creation,27,Beginner,75.47,5.3,6.82,12.41
+57,91045,65155,High,Education,13,Beginner,79.79,10.52,9.68,0.0
+24,108059,50375,Medium,Education,8,Expert,54.92,38.47,6.61,0.0
+58,101972,40540,High,Retirement,3,Intermediate,80.44,8.98,10.58,0.0
+42,235286,78848,Medium,House,25,Intermediate,55.98,20.6,10.68,12.73
+32,115408,43640,Medium,Wealth Creation,29,Expert,66.12,22.74,11.14,0.0
+51,254196,152795,Medium,Wealth Creation,20,Intermediate,53.25,24.47,7.54,14.75
+40,112876,34198,Low,House,22,Beginner,19.63,70.17,10.21,0.0
+44,219737,169672,High,Education,18,Beginner,77.18,14.42,8.4,0.0
+46,217742,141796,Medium,Education,13,Expert,55.38,26.92,11.02,6.68
+22,227605,167306,Medium,House,17,Intermediate,57.64,33.75,8.6,0.0
+50,252204,171063,Low,House,21,Beginner,27.14,52.72,11.77,8.36
+35,255998,155187,Low,Retirement,23,Intermediate,22.02,51.61,11.63,14.74
+21,295553,125304,Medium,Wealth Creation,15,Beginner,51.84,30.51,11.06,6.59
+47,166621,79949,Medium,Retirement,1,Expert,46.32,33.45,6.69,13.54
+51,276505,190179,Medium,Education,21,Beginner,53.37,32.83,8.45,5.35
+57,176140,118569,High,House,19,Intermediate,72.44,13.06,7.13,7.37
+41,111198,78518,Medium,House,19,Expert,59.79,29.63,10.58,0.0
+58,21051,16080,High,Wealth Creation,23,Beginner,80.83,10.82,8.35,0.0
+56,246572,74278,High,House,26,Intermediate,69.08,11.11,8.01,11.8
+55,206093,151786,Medium,Wealth Creation,24,Intermediate,63.11,26.66,10.24,0.0
+53,276446,96188,Medium,Education,24,Intermediate,52.12,34.67,7.3,5.92
+36,233175,73310,Medium,Education,24,Intermediate,53.63,27.15,12.04,7.18
+44,75805,54090,Medium,Education,10,Beginner,58.44,33.15,8.41,0.0
+39,290146,156826,Medium,House,5,Beginner,42.44,38.96,8.95,9.66
+46,288449,105316,Medium,Wealth Creation,18,Expert,53.74,28.99,7.23,10.05
+21,269432,85594,High,House,3,Beginner,72.83,11.61,9.28,6.28
+53,124188,65046,Low,Education,26,Expert,19.73,68.93,11.34,0.0
+41,45464,29899,High,House,6,Beginner,81.52,9.97,8.51,0.0
+24,176177,131337,High,Retirement,28,Intermediate,80.44,10.25,9.31,0.0
+30,73592,29424,Medium,House,17,Expert,57.79,28.47,13.75,0.0
+57,263767,100052,Medium,Wealth Creation,13,Beginner,55.08,21.38,11.12,12.43
+50,288042,104807,High,House,12,Expert,74.97,6.94,10.0,8.09
+48,220569,160983,Low,Retirement,9,Beginner,12.73,79.74,7.53,0.0
+54,262934,200568,High,Retirement,12,Expert,81.06,7.27,11.67,0.0
+21,236896,100500,High,House,10,Expert,65.38,15.72,10.06,8.85
+36,67111,40275,Low,Wealth Creation,17,Beginner,22.61,67.17,10.22,0.0
+37,270351,147230,Low,Wealth Creation,13,Beginner,25.95,51.11,9.29,13.65
+47,69420,30794,Low,Wealth Creation,21,Intermediate,20.51,64.65,14.84,0.0
+43,64036,36579,Low,House,20,Beginner,18.44,69.24,12.31,0.0
+24,256304,82259,Medium,Wealth Creation,14,Intermediate,60.8,21.4,7.96,9.83
+55,109424,84445,Low,Education,19,Beginner,17.69,68.35,13.97,0.0
+44,82780,47742,Medium,Retirement,17,Intermediate,58.88,32.61,8.51,0.0
+56,212453,111664,Low,Retirement,14,Intermediate,18.67,58.57,10.11,12.65
+36,155899,109422,Low,Wealth Creation,4,Beginner,20.6,67.51,11.89,0.0
+51,131362,68215,High,Wealth Creation,24,Beginner,84.82,7.35,7.83,0.0
+22,206950,98428,High,Wealth Creation,12,Intermediate,73.97,10.55,8.19,7.29
+30,47877,19679,High,Wealth Creation,21,Beginner,76.04,13.51,10.45,0.0
+43,208868,73249,Medium,Education,6,Intermediate,57.81,24.3,5.44,12.45
+26,255113,96134,Medium,House,15,Expert,54.01,26.94,8.44,10.61
+23,154794,116880,Medium,House,17,Beginner,64.96,26.1,8.94,0.0
+39,79807,56189,Medium,Wealth Creation,6,Beginner,62.28,28.9,8.82,0.0
+31,266732,134805,Medium,Retirement,9,Beginner,52.12,33.22,8.45,6.21
+29,152886,96123,Low,Education,29,Beginner,17.45,60.08,11.57,10.9
+48,54785,40234,Medium,House,16,Beginner,55.56,33.45,10.98,0.0
+50,130966,46071,Medium,Education,9,Beginner,57.88,32.7,9.42,0.0
+30,226946,106429,Medium,House,11,Beginner,54.86,30.9,7.51,6.74
+22,198296,105353,Medium,Education,18,Beginner,54.6,22.64,11.95,10.81
+46,99211,34349,Medium,Education,15,Beginner,55.67,34.4,9.93,0.0
+24,215558,70544,Low,Retirement,2,Beginner,8.07,70.46,8.26,13.2
+32,48202,14476,Low,Education,29,Beginner,22.14,67.72,10.14,0.0
+46,123119,88938,Low,Retirement,28,Expert,15.46,73.52,11.02,0.0
+43,135657,107327,Low,Wealth Creation,13,Beginner,26.79,61.97,11.24,0.0
+35,196355,140232,Medium,Retirement,14,Beginner,65.23,25.43,9.34,0.0
+57,144954,67348,Medium,Education,20,Intermediate,58.39,32.52,9.1,0.0
+22,55733,21038,Medium,Education,16,Expert,52.73,36.31,10.96,0.0
+39,106486,74986,Medium,Wealth Creation,13,Beginner,52.74,37.95,9.31,0.0
+56,196968,116152,Medium,Retirement,19,Beginner,53.58,22.55,10.47,13.39
+29,234303,111637,Medium,Wealth Creation,18,Intermediate,56.8,22.42,11.51,9.27
+24,80380,54611,Low,House,13,Beginner,31.42,54.87,13.71,0.0
+39,227288,78254,Low,House,29,Beginner,20.61,60.06,10.38,8.95
+30,118064,74170,Medium,Education,16,Intermediate,67.85,21.48,10.67,0.0
+44,153248,79628,Medium,Retirement,21,Intermediate,63.74,19.07,11.56,5.63
+53,212458,147028,Medium,Retirement,1,Expert,38.56,40.69,9.3,11.45
+24,275083,192387,Medium,Wealth Creation,18,Beginner,52.31,29.56,7.67,10.46
+22,180399,68328,High,Education,28,Intermediate,76.07,10.21,8.21,5.51
+30,262471,199285,Medium,Wealth Creation,13,Beginner,60.64,30.81,8.55,0.0
+36,250636,115659,High,Retirement,25,Beginner,78.85,4.47,9.33,7.36
+46,130168,87499,Low,Retirement,12,Beginner,21.42,69.39,9.19,0.0
+52,220417,88316,Low,Retirement,20,Beginner,18.86,58.66,10.31,12.17
+47,46270,19078,Medium,House,2,Beginner,36.72,53.2,10.09,0.0
+59,167735,69373,High,Wealth Creation,14,Beginner,74.47,5.15,9.1,11.28
+42,156645,54182,Low,Retirement,14,Beginner,22.82,59.93,9.55,7.7
+56,27697,16695,Low,Retirement,23,Intermediate,15.97,72.31,11.72,0.0
+24,96436,34511,Low,House,7,Beginner,12.58,79.3,8.13,0.0
+43,277165,162707,Low,Education,14,Beginner,15.51,54.77,13.09,16.64
+54,126244,80989,Medium,Retirement,27,Beginner,55.71,32.81,11.49,0.0
+35,151936,85802,Medium,House,3,Intermediate,53.75,28.61,5.78,11.86
+33,264936,128404,Low,Retirement,6,Beginner,21.52,55.95,8.08,14.44
+47,298104,120222,Medium,Wealth Creation,23,Intermediate,56.98,21.39,7.73,13.89
+44,286186,134907,Low,Retirement,22,Beginner,22.82,56.49,8.9,11.78
+21,114913,63045,Medium,Retirement,20,Beginner,65.31,26.2,8.48,0.0
+23,148674,50196,High,Wealth Creation,12,Intermediate,77.82,12.52,9.66,0.0
+24,167698,57439,Medium,House,13,Beginner,55.5,27.34,9.83,7.33
+42,284179,195020,Medium,Education,10,Expert,54.63,27.76,9.19,8.42
+29,214999,150725,Low,Education,16,Intermediate,16.33,71.2,12.46,0.0
+34,66121,35718,Medium,House,6,Intermediate,60.88,30.68,8.44,0.0
+58,21466,10396,High,House,15,Beginner,77.96,12.89,9.15,0.0
+45,284037,115784,Low,House,12,Beginner,18.08,65.61,7.59,8.72
+33,225400,125344,Medium,Education,22,Expert,45.85,32.03,9.18,12.95
+27,227370,98344,Medium,Retirement,9,Intermediate,50.0,24.89,8.8,16.32
+46,127573,70555,High,House,19,Beginner,83.9,7.73,8.37,0.0
+48,80354,37113,High,Wealth Creation,14,Beginner,81.93,10.24,7.83,0.0
+45,152018,60298,Medium,Wealth Creation,10,Expert,50.82,31.43,9.03,8.72
+43,206584,118784,Low,Education,7,Beginner,18.91,66.21,5.52,9.37
+27,31569,22499,Medium,House,27,Expert,63.76,25.14,11.1,0.0
+54,21539,15565,High,House,4,Beginner,83.53,7.1,9.37,0.0
+50,117799,63751,Low,Retirement,24,Expert,28.08,63.36,8.56,0.0
+47,275821,131531,Medium,Education,28,Intermediate,57.29,23.34,8.8,10.58
+24,106436,45770,High,Wealth Creation,7,Beginner,77.55,15.11,7.34,0.0
+24,158442,119479,Medium,House,4,Intermediate,61.23,28.09,10.67,0.0
+21,69593,30950,Medium,Retirement,23,Intermediate,59.3,29.09,11.61,0.0
+44,137333,65793,Medium,House,5,Beginner,51.87,42.72,5.41,0.0
+53,177195,60955,Medium,House,27,Intermediate,51.74,33.87,7.09,7.3
+35,131361,61603,Medium,House,7,Intermediate,62.08,27.5,10.43,0.0
+38,177419,102281,Medium,House,12,Intermediate,45.13,32.82,11.15,10.9
+54,168929,70305,Low,Education,6,Beginner,19.21,66.6,5.74,8.45
+51,143099,85543,Medium,Wealth Creation,17,Beginner,66.4,25.03,8.57,0.0
+43,116452,56992,High,Retirement,21,Intermediate,82.27,7.49,10.24,0.0
+35,283068,136242,Low,Retirement,15,Expert,14.69,64.19,9.04,12.08
+32,117628,46698,Low,House,3,Expert,17.84,75.67,6.49,0.0
+24,62674,48070,Low,House,3,Beginner,13.77,76.49,9.74,0.0
+29,73051,28392,Low,Wealth Creation,13,Beginner,15.1,72.14,12.77,0.0
+54,251189,119795,Low,Retirement,17,Intermediate,23.38,49.47,12.66,14.49
+45,184145,81542,Low,Education,26,Intermediate,24.94,60.8,8.32,5.94
+26,133604,66107,Low,Retirement,25,Intermediate,17.8,69.17,13.03,0.0
+38,133978,68284,Medium,Wealth Creation,25,Intermediate,56.52,29.95,13.54,0.0
+29,182023,135469,Medium,Retirement,20,Expert,65.16,21.13,13.71,0.0
+23,145849,75984,Low,Wealth Creation,13,Beginner,21.44,67.21,11.35,0.0
+38,258657,163558,Medium,House,23,Expert,51.22,26.43,12.02,10.33
+31,41650,21685,Medium,Education,21,Beginner,56.26,33.6,10.14,0.0
+44,194312,104053,Medium,Retirement,19,Intermediate,58.33,28.09,6.86,6.72
+32,171990,79976,Medium,Wealth Creation,28,Intermediate,60.05,24.68,9.6,5.68
+57,165817,55475,High,Education,2,Expert,62.59,14.99,9.6,12.82
+42,196111,79756,Low,Wealth Creation,13,Beginner,15.24,55.27,13.56,15.93
+41,138248,51778,Low,Retirement,6,Beginner,17.8,73.59,8.61,0.0
+43,152447,67826,Medium,Retirement,11,Beginner,56.59,24.51,11.25,7.65
+47,123889,40325,Medium,Retirement,19,Beginner,66.07,23.98,9.95,0.0
+40,252069,183486,Medium,Education,9,Intermediate,61.6,31.7,6.71,0.0
+33,34678,24839,Medium,Wealth Creation,22,Beginner,58.12,31.44,10.45,0.0
+45,120485,80507,High,Wealth Creation,25,Beginner,84.29,6.29,9.43,0.0
+22,262434,123931,High,Wealth Creation,17,Beginner,75.43,5.88,7.85,10.84
+45,81360,29011,High,Education,11,Intermediate,81.71,8.48,9.81,0.0
+43,47464,24095,Medium,Retirement,10,Expert,56.65,32.96,10.38,0.0
+38,101441,55352,Low,Wealth Creation,29,Beginner,24.84,66.4,8.76,0.0
+59,231230,135906,High,House,10,Beginner,74.62,8.13,8.33,8.91
+29,20515,7345,Low,Wealth Creation,9,Beginner,19.04,72.72,8.24,0.0
+35,157080,55111,High,Wealth Creation,5,Beginner,68.84,12.5,7.72,10.94
+33,125219,42598,Medium,Education,13,Expert,63.39,24.54,12.07,0.0
+29,262653,194623,High,Education,11,Beginner,81.22,6.77,12.01,0.0
+33,36932,25722,Medium,House,7,Beginner,57.45,35.04,7.51,0.0
+59,195309,124089,Low,Education,19,Beginner,28.66,53.39,8.68,9.27
+37,285228,181433,Medium,House,7,Expert,52.39,34.36,6.8,6.44
+31,166259,75668,Low,House,5,Beginner,15.88,68.42,7.47,8.23
+36,88968,61829,High,Wealth Creation,15,Expert,75.97,14.33,9.69,0.0
+39,265277,110769,Medium,Education,17,Beginner,52.06,30.69,8.66,8.59
+48,239730,73496,Medium,House,17,Expert,46.88,30.97,10.45,11.71
+45,85431,42926,Low,House,23,Beginner,30.12,61.15,8.73,0.0
+44,195486,139655,High,Retirement,2,Expert,77.53,14.08,8.4,0.0
+46,135375,61657,Medium,Wealth Creation,24,Expert,51.49,36.62,11.89,0.0
+52,72949,27062,Low,Education,7,Intermediate,14.12,75.6,10.27,0.0
+24,212898,84082,Low,Retirement,13,Beginner,12.83,62.5,10.12,14.56
+43,90474,65327,High,House,21,Intermediate,81.19,9.42,9.39,0.0
+37,193615,72643,Medium,Education,3,Beginner,55.75,22.74,9.46,12.05
+51,133758,70607,Medium,House,28,Beginner,67.35,22.5,10.15,0.0
+34,269329,151788,Medium,House,15,Expert,57.53,26.69,8.97,6.8
+23,198734,146608,High,Retirement,9,Beginner,71.04,20.65,8.31,0.0
+50,87443,55656,High,Education,13,Intermediate,83.58,8.53,7.9,0.0
+49,174721,94481,Medium,Education,22,Beginner,60.5,20.77,8.5,10.23
+34,134010,54848,Medium,House,2,Expert,39.44,49.72,10.84,0.0
+49,297948,217116,Medium,House,22,Beginner,52.9,35.88,11.22,0.0
+37,82287,61679,Medium,Education,4,Beginner,59.37,31.21,9.43,0.0
+59,179379,120900,Low,Retirement,19,Beginner,15.48,63.32,11.83,9.36
+29,191349,88955,Medium,Education,22,Expert,63.75,22.21,8.03,6.0
+38,46950,20325,Low,House,1,Intermediate,10.15,81.55,8.3,0.0
+52,292544,212974,Medium,Education,10,Expert,56.36,27.65,15.98,0.0
+36,91537,71342,Low,Retirement,24,Beginner,15.58,69.68,14.74,0.0
+33,233286,107037,Medium,Education,10,Expert,52.95,32.63,9.53,4.89
+54,192857,94404,Medium,Education,3,Beginner,57.2,26.9,7.96,7.94
+21,139875,81367,High,Education,17,Beginner,84.68,5.45,9.87,0.0
+34,124186,71890,Low,House,10,Intermediate,15.26,74.93,9.81,0.0
+44,213946,141916,Medium,Wealth Creation,8,Beginner,55.72,29.97,7.45,6.86
+39,254453,108909,Medium,Wealth Creation,25,Intermediate,51.14,25.88,9.01,13.96
+40,38557,18135,High,Retirement,10,Beginner,71.62,20.59,7.79,0.0
+37,250693,194388,Medium,Education,23,Expert,54.53,36.76,8.72,0.0
+39,46081,32124,Medium,Education,1,Beginner,50.08,43.09,6.83,0.0
+21,75514,31337,Medium,Wealth Creation,27,Beginner,69.31,20.13,10.55,0.0
+21,124127,68128,Medium,Retirement,17,Beginner,59.64,32.68,7.69,0.0
+27,218763,105353,Medium,Education,13,Beginner,52.57,27.76,7.79,11.89
+30,276433,107629,Low,Wealth Creation,17,Beginner,19.15,58.87,10.61,11.37
+26,182002,111833,Medium,Retirement,6,Intermediate,53.64,23.11,7.08,16.18
+47,158009,87288,High,Wealth Creation,4,Expert,71.73,11.38,10.19,6.71
+53,262262,87675,Medium,Wealth Creation,23,Intermediate,52.8,25.77,10.5,10.93
+49,127041,84800,Medium,Retirement,9,Beginner,53.47,36.88,9.64,0.0
+51,194673,61515,Medium,House,7,Beginner,51.16,28.33,7.58,12.94
+30,155393,102038,Medium,Retirement,28,Intermediate,55.43,25.45,9.67,9.45
+32,170056,111958,Low,Retirement,27,Beginner,25.2,53.67,10.36,10.77
+56,92902,54506,Low,Education,15,Beginner,19.29,70.77,9.94,0.0
+46,283136,157334,Medium,Retirement,10,Beginner,56.68,28.29,7.73,7.3
+44,130957,54766,Low,House,1,Intermediate,9.02,85.26,5.72,0.0
+44,285864,105026,Low,Education,17,Expert,14.24,61.3,10.99,13.47
+41,219316,131219,Medium,Wealth Creation,23,Beginner,53.79,20.85,12.2,13.17
+40,53324,29390,Medium,Retirement,17,Beginner,56.38,34.22,9.39,0.0
+38,256538,131636,Medium,Education,24,Intermediate,54.0,31.99,6.85,7.15
+35,133627,66958,Medium,Education,19,Beginner,55.22,32.2,12.58,0.0
+48,141169,80717,Medium,House,21,Expert,52.11,37.32,10.56,0.0
+53,188112,149423,Low,Wealth Creation,3,Beginner,18.28,74.17,7.55,0.0
+56,197926,134174,High,Retirement,14,Intermediate,76.79,4.65,9.86,8.7
+45,109353,62618,Medium,Education,16,Intermediate,58.14,31.55,10.32,0.0
+26,99183,57472,Medium,House,9,Beginner,59.48,29.83,10.7,0.0
+53,72344,38810,Medium,House,3,Intermediate,57.38,33.16,9.46,0.0
+34,278667,95149,Medium,Wealth Creation,17,Beginner,58.35,25.12,9.64,6.88
+54,177977,117541,Medium,Education,28,Intermediate,60.66,21.53,8.07,9.74
+33,288591,92076,Low,Wealth Creation,2,Intermediate,8.61,71.06,8.01,12.32
+22,136220,42862,Medium,Retirement,4,Beginner,54.33,34.04,11.64,0.0
+50,101268,49886,Low,Wealth Creation,8,Beginner,18.82,73.81,7.37,0.0
+47,173956,69385,Medium,Wealth Creation,7,Beginner,60.33,25.04,7.58,7.05
+43,209826,126527,Medium,House,6,Beginner,53.77,25.32,8.03,12.88
+28,54409,33177,Medium,Education,29,Beginner,53.94,35.39,10.67,0.0
+32,20363,9417,Low,Retirement,2,Intermediate,8.98,84.36,6.66,0.0
+51,20882,10104,High,Wealth Creation,12,Beginner,80.71,7.61,11.69,0.0
+41,48885,21953,Low,House,4,Beginner,24.39,68.31,7.3,0.0
+30,201089,93867,Medium,House,8,Beginner,52.37,33.45,5.76,8.42
+22,96411,73263,Medium,Retirement,4,Expert,51.12,41.99,6.9,0.0
+49,258441,196775,Low,Education,29,Beginner,26.3,63.61,10.09,0.0
+41,38667,21121,Low,Education,7,Beginner,26.71,65.93,7.35,0.0
+46,290012,164912,Medium,House,12,Expert,62.77,18.74,7.25,11.24
+58,160183,111807,Medium,Wealth Creation,24,Beginner,59.37,24.81,9.14,6.69
+44,209216,111334,Medium,House,18,Beginner,54.25,23.66,13.3,8.79
+47,142989,60296,Low,Retirement,20,Beginner,19.32,70.22,10.46,0.0
+43,61139,34956,Medium,House,23,Expert,62.46,25.22,12.32,0.0
+41,173857,130510,Medium,House,15,Intermediate,65.58,23.04,11.38,0.0
+38,145549,84365,Medium,Retirement,24,Intermediate,57.77,34.04,8.18,0.0
+43,134881,92873,Medium,House,26,Beginner,61.58,28.15,10.26,0.0
+24,178761,64782,High,Education,18,Intermediate,73.35,9.9,9.71,7.04
+21,276139,169648,Medium,Retirement,2,Intermediate,35.05,39.79,11.64,13.52
+50,178901,134578,High,Wealth Creation,19,Beginner,75.39,15.26,9.34,0.0
+32,178666,58362,Low,Education,18,Expert,18.66,60.51,8.02,12.82
+46,164587,121071,Low,Retirement,23,Intermediate,23.29,66.49,10.21,0.0
+57,25636,19283,Low,House,20,Beginner,27.58,61.35,11.07,0.0
+27,123463,97353,Low,Retirement,3,Beginner,18.86,69.74,11.41,0.0
+21,246179,161927,Low,Wealth Creation,12,Intermediate,24.85,53.66,10.13,11.37
+47,207535,96017,Low,Education,29,Intermediate,25.58,56.38,10.36,7.67
+32,246905,94907,Medium,House,16,Intermediate,48.57,29.36,9.77,12.29
+48,102018,57710,Medium,Education,14,Beginner,57.57,31.13,11.3,0.0
+34,257989,178583,Low,House,21,Beginner,16.61,58.07,10.91,14.41
+30,124824,70869,Medium,Retirement,6,Beginner,57.47,34.8,7.73,0.0
+30,222123,174145,Medium,House,4,Beginner,67.87,24.35,7.78,0.0
+43,39403,15501,Medium,Education,4,Beginner,55.56,34.67,9.78,0.0
+55,113246,64301,Medium,House,23,Intermediate,56.75,32.53,10.72,0.0
+35,276681,94336,Low,Education,2,Beginner,13.86,67.9,7.84,10.41
+47,257474,105575,Medium,Retirement,10,Expert,56.02,21.3,9.11,13.57
+24,225232,179129,High,Education,4,Intermediate,84.7,5.76,9.54,0.0
+51,80654,26803,Low,Retirement,19,Beginner,21.84,67.7,10.46,0.0
+46,186991,116879,Medium,Retirement,13,Intermediate,58.63,24.4,8.72,8.24
+56,117493,50975,High,Wealth Creation,22,Intermediate,76.96,15.27,7.77,0.0
+32,168790,134404,Medium,Education,4,Intermediate,63.41,26.53,10.06,0.0
+40,212718,106973,Medium,Retirement,28,Intermediate,51.37,25.49,9.61,13.53
+39,232369,125211,Medium,House,4,Beginner,47.78,37.01,7.65,7.56
+24,59236,21920,Low,Education,10,Beginner,20.88,70.12,9.0,0.0
+30,230047,88136,Low,House,21,Expert,14.68,67.55,9.8,7.97
+41,283312,130117,Medium,Retirement,26,Intermediate,50.66,28.5,10.82,10.02
+39,252931,140696,High,Education,1,Intermediate,56.44,18.66,9.4,15.49
+56,254873,157976,Medium,Retirement,10,Intermediate,45.98,34.97,10.01,9.04
+48,138910,45116,Medium,Wealth Creation,20,Expert,56.96,34.59,8.45,0.0
+41,179762,55335,Low,Wealth Creation,1,Beginner,20.0,64.3,9.03,6.66
+23,111288,46312,Medium,Wealth Creation,13,Beginner,63.87,26.2,9.93,0.0
+54,271063,105820,Medium,Retirement,16,Beginner,57.45,21.31,8.74,12.5
+37,82785,35349,Medium,House,19,Intermediate,60.61,29.06,10.33,0.0
+40,176688,64188,Medium,House,2,Expert,36.04,39.14,9.11,15.71
+27,222278,90782,High,Education,8,Beginner,63.73,18.33,8.64,9.3
+44,268003,187202,Medium,Education,24,Beginner,54.08,24.88,10.9,10.14
+37,188733,150517,Medium,Wealth Creation,3,Expert,48.33,45.5,6.17,0.0
+29,198446,102440,High,House,24,Intermediate,71.92,10.43,10.01,7.64
+40,56160,36004,Medium,Retirement,17,Intermediate,66.88,24.59,8.53,0.0
+52,261766,147004,Low,Education,22,Beginner,17.6,59.86,9.45,13.08
+59,49777,16435,High,Education,2,Intermediate,77.99,10.8,11.21,0.0
+29,141544,73676,Low,Education,8,Expert,24.53,69.23,6.24,0.0
+48,276157,119154,Medium,House,25,Beginner,63.57,20.9,7.87,7.67
+40,112837,86385,Low,Wealth Creation,4,Beginner,26.63,62.95,10.42,0.0
+51,247467,89193,Low,Retirement,5,Expert,23.02,55.85,9.83,11.3
+22,65641,42682,Medium,Retirement,12,Beginner,66.71,22.71,10.58,0.0
+51,125723,39758,Medium,House,23,Beginner,66.55,21.98,11.47,0.0
+54,261422,161447,Low,Education,6,Expert,24.03,62.79,6.46,6.72
+30,31826,23437,Medium,Wealth Creation,29,Intermediate,58.47,29.32,12.21,0.0
+22,162339,55444,Low,Wealth Creation,17,Intermediate,17.22,65.32,11.81,5.65
+33,180020,130317,Medium,House,6,Beginner,55.31,36.32,8.36,0.0
+57,209607,161873,Medium,Education,22,Intermediate,61.87,27.21,10.92,0.0
+33,220003,156925,Low,Education,14,Beginner,14.8,74.75,10.45,0.0
+55,71024,25139,Low,House,13,Beginner,22.43,64.35,13.22,0.0
+46,95118,36953,Medium,Retirement,28,Expert,56.43,32.6,10.97,0.0
+59,292168,196886,Low,Wealth Creation,13,Intermediate,20.48,59.78,7.57,12.17
+36,52940,21548,Low,Retirement,3,Beginner,16.78,72.83,10.39,0.0
+30,56713,38632,Low,Wealth Creation,2,Expert,15.66,74.61,9.73,0.0
+22,23880,17850,Medium,Education,20,Beginner,61.52,27.26,11.22,0.0
+27,68784,24625,Low,Wealth Creation,27,Beginner,25.55,60.63,13.82,0.0
+40,236398,146434,Medium,House,17,Intermediate,56.4,25.68,9.25,8.67
+25,88369,31795,Medium,House,22,Expert,57.18,32.25,10.57,0.0
+30,35994,13533,Low,House,12,Beginner,30.31,60.24,9.45,0.0
+55,93313,56308,Low,Retirement,2,Beginner,15.05,78.31,6.64,0.0
+48,268550,154060,Medium,Retirement,29,Beginner,56.72,24.87,9.0,9.41
+58,125185,73959,Low,House,15,Beginner,22.42,65.63,11.96,0.0
+49,245461,111138,Medium,Education,26,Beginner,49.73,34.72,8.03,7.52
+31,152965,59642,Medium,House,11,Beginner,50.11,27.63,9.92,12.33
+47,286186,123056,Medium,Retirement,27,Intermediate,56.2,19.6,9.89,14.31
+45,207877,136686,High,House,3,Expert,75.31,7.02,5.79,11.88
+30,225380,168742,Medium,Retirement,2,Beginner,41.32,47.02,11.66,0.0
+32,67779,37218,High,Wealth Creation,21,Beginner,73.41,17.74,8.85,0.0
+30,274957,153843,Low,Wealth Creation,21,Intermediate,22.77,60.1,8.66,8.47
+35,29472,12568,Low,Education,5,Intermediate,14.02,74.55,11.43,0.0
+36,298676,212291,Low,Wealth Creation,22,Beginner,26.61,62.06,11.33,0.0
+58,189176,120122,Low,Retirement,8,Beginner,15.75,70.42,6.88,6.95
+41,127967,67309,High,Education,20,Intermediate,78.38,12.0,9.62,0.0
+49,81192,62910,Medium,Retirement,10,Intermediate,61.99,28.48,9.53,0.0
+57,201062,123206,Low,Wealth Creation,8,Beginner,13.98,71.22,6.53,8.27
+53,41576,15792,Medium,Wealth Creation,27,Beginner,63.18,23.34,13.48,0.0
+48,211303,129652,Medium,House,29,Beginner,61.57,22.71,9.17,6.55
+22,227384,165567,Medium,Education,21,Intermediate,66.56,22.4,11.05,0.0
+45,275669,161672,High,Wealth Creation,3,Beginner,75.93,9.69,8.76,5.63
+38,284395,184426,Medium,Retirement,20,Intermediate,60.18,22.21,9.79,7.81
+21,247444,103532,Low,Education,13,Beginner,23.95,55.89,12.3,7.87
+42,66015,25415,Low,Education,13,Beginner,31.58,59.07,9.34,0.0
+55,70711,55488,Low,Retirement,16,Expert,17.76,72.07,10.17,0.0
+35,115119,35829,High,Retirement,25,Beginner,75.86,15.07,9.07,0.0
+24,173412,117017,Medium,Wealth Creation,13,Beginner,61.97,21.96,8.0,8.07
+43,133606,54731,Medium,House,7,Intermediate,62.63,27.19,10.18,0.0
+57,167631,82623,Medium,Retirement,2,Intermediate,47.44,29.97,11.47,11.11
+56,202047,65761,Medium,Education,13,Expert,58.56,24.74,9.85,6.86
+45,78959,25536,Medium,Wealth Creation,19,Beginner,68.57,22.9,8.53,0.0
+57,279427,192663,Medium,Wealth Creation,20,Beginner,57.96,22.76,9.6,9.69
+41,197763,83691,Medium,Retirement,7,Intermediate,52.02,28.43,7.55,12.0
+51,222701,122666,High,Education,5,Intermediate,73.87,5.49,7.89,12.75
+59,21537,7215,High,Retirement,9,Expert,75.92,17.57,6.51,0.0
+32,109846,70852,Medium,Education,3,Beginner,63.79,27.23,8.98,0.0
+37,40104,16098,Medium,Retirement,4,Beginner,65.39,28.91,5.71,0.0
+34,172472,100011,High,House,6,Beginner,77.11,5.27,6.68,10.94
+59,217327,65272,High,Education,14,Beginner,75.89,13.23,6.42,4.45
+38,51673,38598,Medium,Wealth Creation,16,Beginner,68.65,22.69,8.66,0.0
+34,253312,183604,Medium,Education,20,Beginner,62.78,26.48,10.74,0.0
+25,111038,70731,High,Wealth Creation,9,Intermediate,73.71,17.82,8.47,0.0
+32,182434,141219,Medium,Retirement,25,Beginner,63.44,25.08,11.48,0.0
+23,212941,84941,Low,Education,25,Beginner,23.34,63.05,7.91,5.7
+22,21468,14365,Medium,House,9,Beginner,55.01,35.75,9.24,0.0
+52,188913,130221,Medium,Education,14,Beginner,55.37,19.4,10.19,15.04
+45,191169,72682,Low,Retirement,7,Beginner,13.95,72.18,7.61,6.26
+44,279636,101084,High,Education,28,Beginner,69.82,13.59,7.47,9.11
+59,279425,189260,Medium,Education,18,Beginner,53.8,22.45,8.08,15.67
+50,233482,123546,Medium,House,29,Beginner,50.76,26.96,7.77,14.52
+40,106296,41378,High,Education,5,Intermediate,83.95,6.18,9.87,0.0
+47,191999,145689,Medium,House,19,Expert,67.03,21.94,11.03,0.0
+53,229124,115795,Medium,Education,1,Beginner,36.27,46.27,9.21,8.25
+25,186862,87046,High,Education,28,Intermediate,76.13,9.31,8.33,6.22
+50,261356,117868,Low,House,1,Intermediate,12.07,65.87,7.85,14.21
+58,85641,46829,Medium,Retirement,27,Intermediate,62.08,30.23,7.69,0.0
+49,222821,146867,Medium,Education,22,Beginner,57.41,24.39,8.98,9.22
+43,115335,76505,Medium,Education,25,Intermediate,60.97,27.52,11.51,0.0
+29,85614,61575,High,House,2,Beginner,65.27,23.75,10.98,0.0
+55,278789,214685,Medium,Retirement,24,Beginner,64.47,25.1,10.42,0.0
+39,170737,121467,High,House,9,Intermediate,76.58,16.46,6.96,0.0
+50,66531,40567,Medium,Retirement,27,Beginner,57.25,33.01,9.74,0.0
+22,70468,53603,Medium,Retirement,16,Beginner,55.24,31.21,13.55,0.0
+49,67599,37676,Medium,Wealth Creation,15,Intermediate,64.41,26.98,8.62,0.0
+30,164575,104315,High,Wealth Creation,19,Beginner,73.65,4.29,9.7,12.36
+46,177212,111864,High,Education,25,Beginner,70.44,5.99,9.92,13.65
+58,114968,63994,Medium,House,21,Beginner,67.51,22.13,10.36,0.0
+56,219294,78454,Medium,House,8,Beginner,53.59,27.82,10.38,8.21
+42,170685,134233,High,Retirement,11,Beginner,78.21,12.59,9.2,0.0
+51,56445,22729,Medium,House,19,Expert,71.06,20.52,8.42,0.0
+22,88322,60134,Medium,Retirement,5,Beginner,66.86,24.0,9.13,0.0
+49,150364,82010,Low,Retirement,20,Expert,22.98,55.71,11.16,10.15
+23,293120,202112,Medium,Retirement,19,Beginner,62.52,21.7,9.98,5.8
+55,255851,170544,High,Retirement,5,Expert,79.04,9.27,5.31,6.38
+40,185278,59126,Medium,Retirement,8,Intermediate,57.41,23.61,8.06,10.91
+32,108780,40803,Medium,Retirement,7,Expert,55.68,36.03,8.29,0.0
+29,132113,50562,Medium,Wealth Creation,13,Beginner,59.28,31.17,9.54,0.0
+25,179912,143340,Low,Wealth Creation,18,Beginner,15.65,72.44,11.91,0.0
+36,190457,144717,Medium,Education,23,Intermediate,63.64,28.86,7.5,0.0
+41,44976,29130,High,Wealth Creation,25,Beginner,80.71,9.49,9.8,0.0
+50,271666,89025,Medium,Wealth Creation,24,Intermediate,51.42,25.36,10.62,12.59
+38,70248,30194,Low,House,29,Intermediate,23.93,64.06,12.02,0.0
+57,243777,73728,Low,Education,25,Intermediate,15.59,60.22,14.35,9.84
+46,45020,23486,Medium,Education,17,Beginner,57.17,30.41,12.41,0.0
+32,153922,74576,Low,House,21,Beginner,28.51,54.84,8.78,7.87
+44,249016,182289,Low,House,9,Beginner,26.41,64.51,9.08,0.0
+26,90400,69204,Low,Education,6,Beginner,25.62,66.5,7.89,0.0
+34,56021,20588,Low,Education,14,Beginner,28.81,61.87,9.32,0.0
+49,235657,113416,Low,Retirement,17,Intermediate,23.68,59.56,9.22,7.55
+47,185912,86780,Medium,Wealth Creation,20,Beginner,55.46,22.64,10.41,11.48
+28,160179,54046,Low,Wealth Creation,22,Expert,14.65,58.14,8.67,18.53
+51,278480,92734,Low,Education,4,Intermediate,22.53,56.35,8.55,12.57
+57,139324,45232,Medium,Education,2,Beginner,45.17,44.37,10.46,0.0
+58,63890,40489,Medium,Education,28,Intermediate,62.38,23.95,13.66,0.0
+57,137174,56509,Medium,Education,18,Intermediate,54.5,30.87,14.62,0.0
+31,275678,211395,Medium,Wealth Creation,7,Beginner,58.8,33.84,7.36,0.0
+41,118185,46889,Low,Education,15,Intermediate,16.34,74.07,9.59,0.0
+52,299702,148346,Low,Education,4,Intermediate,12.61,68.12,6.95,12.31
+41,66737,43516,Low,House,19,Beginner,20.8,68.81,10.39,0.0
+26,149237,47536,Medium,Retirement,3,Beginner,60.21,32.83,6.95,0.0
+35,285116,189437,Low,Wealth Creation,7,Beginner,14.42,71.52,7.68,6.38
+26,47909,21822,Low,Wealth Creation,18,Expert,18.6,69.52,11.87,0.0
+35,161002,51585,Medium,Education,22,Beginner,45.43,33.34,7.2,14.03
+27,279990,192497,High,Retirement,2,Intermediate,61.59,11.47,10.31,16.64
+38,27373,10724,High,Retirement,28,Beginner,79.42,12.25,8.33,0.0
+28,27642,14696,Low,House,1,Beginner,19.14,72.39,8.47,0.0
+46,205784,156680,Medium,Education,7,Beginner,63.86,28.08,8.06,0.0
+48,160749,124052,Medium,Education,18,Beginner,69.87,20.7,9.43,0.0
+45,250596,170220,High,Wealth Creation,12,Intermediate,70.01,8.93,10.42,10.63
+31,225671,68535,High,Wealth Creation,23,Beginner,72.36,13.43,5.93,8.29
+29,134897,98877,Medium,Education,16,Intermediate,65.24,24.66,10.11,0.0
+45,297906,207169,Medium,Wealth Creation,23,Expert,55.49,26.36,8.36,9.8
+39,184052,122409,Medium,Retirement,15,Intermediate,55.18,28.42,7.85,8.55
+57,142984,56672,Medium,Wealth Creation,11,Beginner,67.87,20.1,12.03,0.0
+49,154365,103398,Medium,House,29,Beginner,54.7,27.93,10.01,7.37
+53,245902,130095,Medium,Education,12,Beginner,53.99,31.36,9.22,5.43
+53,87359,33059,Medium,Education,17,Beginner,54.51,36.06,9.43,0.0
+43,150466,112452,Low,Retirement,7,Expert,20.95,70.48,8.57,0.0
+23,258269,101982,Medium,Retirement,14,Beginner,57.7,22.72,10.51,9.07
+55,201549,97365,Medium,Wealth Creation,8,Expert,52.27,29.44,7.31,10.97
+37,144277,53966,Low,Education,17,Intermediate,25.9,62.54,11.56,0.0
+30,281879,114911,Medium,Education,1,Intermediate,36.64,39.54,9.09,14.73
+23,55851,41212,Low,Wealth Creation,25,Intermediate,17.25,72.42,10.33,0.0
+56,187462,66530,Low,House,26,Intermediate,15.4,57.98,11.13,15.49
+50,119083,83843,Medium,Wealth Creation,3,Intermediate,55.66,34.74,9.6,0.0
+24,249171,186446,High,House,7,Expert,71.8,20.07,8.13,0.0
+49,164378,95495,Medium,Education,12,Expert,51.87,24.26,12.76,11.11
+46,128775,63664,High,Education,9,Beginner,84.15,9.76,6.1,0.0
+45,137399,97966,Low,Wealth Creation,17,Beginner,23.58,66.62,9.8,0.0
+47,201902,77697,Medium,Education,15,Beginner,46.81,35.62,10.41,7.15
+52,78008,41142,High,Wealth Creation,23,Expert,76.14,13.59,10.27,0.0
+25,118971,39061,Medium,Wealth Creation,25,Beginner,56.55,33.09,10.36,0.0
+52,23650,16419,Medium,Education,7,Intermediate,55.38,38.01,6.61,0.0
+37,186490,103032,Medium,Wealth Creation,17,Beginner,61.73,21.58,8.9,7.78
+43,218139,136458,Low,House,29,Expert,21.24,58.03,7.64,13.09
+37,266991,98904,Medium,Wealth Creation,24,Intermediate,48.95,27.98,9.34,13.72
+51,269643,166327,Medium,Wealth Creation,12,Intermediate,53.02,22.3,9.42,15.26
+52,66936,47830,High,Wealth Creation,18,Intermediate,81.98,7.49,10.53,0.0
+55,200449,86987,Medium,Retirement,24,Intermediate,54.23,21.07,11.88,12.82
+52,78453,46477,Medium,Wealth Creation,11,Beginner,59.15,32.04,8.81,0.0
+26,67098,20261,High,House,23,Beginner,82.36,6.9,10.73,0.0
+42,195295,150243,Medium,Retirement,27,Expert,66.62,24.58,8.8,0.0
+54,297834,91259,Medium,House,8,Expert,55.31,29.31,9.12,6.25
+43,179277,142670,Low,Education,7,Beginner,13.42,79.04,7.55,0.0
+40,260491,139744,High,Retirement,17,Beginner,72.46,8.69,8.25,10.61
+47,212317,115209,Low,Education,17,Intermediate,22.94,55.14,10.79,11.13
+54,200580,102005,Medium,Education,22,Expert,54.83,28.18,9.2,7.79
+39,89893,48230,Medium,Wealth Creation,8,Intermediate,53.75,35.36,10.88,0.0

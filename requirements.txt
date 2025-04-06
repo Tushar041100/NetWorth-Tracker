@@ -1,0 +1,13 @@
+pandas
+numpy
+faker
+seaborn
+matplotlib
+plotly
+scikit-learn
+joblib
+pydantic
+torch
+streamlit
+pytest
+fpdf

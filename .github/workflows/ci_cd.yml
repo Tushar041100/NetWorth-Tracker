@@ -1,0 +1,65 @@
+name: CI/CD Pipeline
+ 
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+ 
+env:
+  PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+  GAR_LOCATION: us-central1
+  SERVICE_NAME: ai-financial-advisor
+  REGION: us-central1
+ 
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+ 
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+ 
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+ 
+      - name: Run Tests
+        run: |
+          pytest tests/
+ 
+      - name: Lint Code
+        run: |
+          pip install black flake8
+          black . --check
+          flake8 .
+ 
+      - name: Set up Google Cloud SDK
+        uses: google-github-actions/setup-gcloud@v1
+        with:
+          project_id: ${{ secrets.GCP_PROJECT_ID }}
+          service_account_key: ${{ secrets.GCP_SA_KEY }}
+          export_default_credentials: true
+ 
+      - name: Build Docker Image
+        run: |
+          docker build -t gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:$GITHUB_SHA .
+ 
+      - name: Push Docker Image to Google Container Registry
+        run: |
+          gcloud auth configure-docker
+          docker push gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:$GITHUB_SHA
+ 
+      - name: Deploy to Google Cloud Run
+        run: |
+          gcloud run deploy ${{ env.SERVICE_NAME }} \
+          --image gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:$GITHUB_SHA \
+          --platform managed \
+          --region ${{ env.REGION }} \
+          --allow-unauthenticated
