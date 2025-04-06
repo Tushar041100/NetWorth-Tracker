@@ -1,1 +1,1 @@
-# Personalized AI Financial Advisor
+# Personalized AI Financial Advisory
