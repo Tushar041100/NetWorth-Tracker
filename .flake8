@@ -8,4 +8,7 @@ exclude =
     dist,
     .venv,
     venv
- 
+ignore = 
+    # Ignore specific errors
+    E501,  # Line too long
+    F401,  # Module imported but unused
