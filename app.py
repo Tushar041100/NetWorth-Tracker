@@ -8,7 +8,6 @@ from explain_and_validate import (
     enforce_regulatory_safeguards,
     log_recommendation,
 )
-from sklearn.preprocessing import LabelEncoder
 from fpdf import FPDF
 import os
 

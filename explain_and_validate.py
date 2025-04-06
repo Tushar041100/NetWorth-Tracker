@@ -1,7 +1,6 @@
 from validation import AssetAllocationRequest, AssetAllocationResponse
 import pandas as pd
 
-
 def explain_recommendation(
     request: AssetAllocationRequest, response: AssetAllocationResponse
 ) -> str:
