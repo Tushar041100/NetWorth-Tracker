@@ -33,7 +33,7 @@ jobs:
       - name: Run Tests
         run: |
           pytest test.py
-        
+ 
       - name: Lint Code
         run: |
           pip install black flake8
@@ -53,13 +53,14 @@ jobs:
  
       - name: Push Docker Image to Google Container Registry
         run: |
-          gcloud auth configure-docker
+          gcloud auth configure-docker --quiet
           docker push gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:$GITHUB_SHA
  
       - name: Deploy to Google Cloud Run
         run: |
           gcloud run deploy ${{ env.SERVICE_NAME }} \
-          --image gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:$GITHUB_SHA \
-          --platform managed \
-          --region ${{ env.REGION }} \
-          --allow-unauthenticated
+            --image gcr.io/${{ env.PROJECT_ID }}/${{ env.SERVICE_NAME }}:$GITHUB_SHA \
+            --platform managed \
+            --region ${{ env.REGION }} \
+            --allow-unauthenticated
+ 
