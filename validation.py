@@ -10,7 +10,9 @@ class AssetAllocationRequest(BaseModel):
     monthly_expenses: float = Field(..., ge=0)
     goal_horizon_years: int = Field(..., ge=0)
     risk_tolerance: Literal["Low", "Medium", "High"]
-    financial_goal: Literal["Retirement", "Wealth Creation", "Child Education", "Travel"]
+    financial_goal: Literal[
+        "Retirement", "Wealth Creation", "Child Education", "Travel"
+    ]
     investment_experience: Literal["Beginner", "Intermediate", "Expert"]
 
     @field_validator("monthly_expenses")
@@ -28,7 +30,9 @@ class AssetAllocationResponse(BaseModel):
     gold_percent: float = Field(..., ge=0, le=100)
     real_estate_percent: float = Field(..., ge=0, le=100)
 
-    @field_validator("equity_percent", "debt_percent", "gold_percent", "real_estate_percent")
+    @field_validator(
+        "equity_percent", "debt_percent", "gold_percent", "real_estate_percent"
+    )
     @classmethod
     def validate_individual_percent(cls, v):
         if not 0 <= v <= 100:
@@ -39,7 +43,14 @@ class AssetAllocationResponse(BaseModel):
     @classmethod
     def validate_total_percent(cls, v, info):
         data = info.data
-        total = sum([data.get("equity_percent", 0) + data.get("debt_percent", 0) + data.get("gold_percent", 0) + v])
+        total = sum(
+            [
+                data.get("equity_percent", 0)
+                + data.get("debt_percent", 0)
+                + data.get("gold_percent", 0)
+                + v
+            ]
+        )
 
         if not np.isclose(total, 100, atol=0.5):
             raise ValueError(f"Total allocation must sum up to 100%. Got: {total}%")

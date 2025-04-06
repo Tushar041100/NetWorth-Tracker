@@ -30,8 +30,12 @@ with st.form("user_input_form"):
     expenses = st.number_input("Monthly Expenses (INR)", min_value=0.0, value=20000.0)
     horizon = st.slider("Investment Horizon (Years)", 0, 40, 10)
     risk = st.selectbox("Risk Tolerance", ["Low", "Medium", "High"])
-    goal = st.selectbox("Financial Goal", ["Retirement", "Wealth Creation", "Child Education", "Travel"])
-    experience = st.selectbox("Investment Experience", ["Beginner", "Intermediate", "Expert"])
+    goal = st.selectbox(
+        "Financial Goal", ["Retirement", "Wealth Creation", "Child Education", "Travel"]
+    )
+    experience = st.selectbox(
+        "Investment Experience", ["Beginner", "Intermediate", "Expert"]
+    )
     submitted = st.form_submit_button("Get Asset Allocation")
 
 if submitted:
@@ -100,7 +104,11 @@ if submitted:
         st.write(explanation)
 
         # Pie chart
-        st.pyplot(pd.Series(response.model_dump()).plot.pie(autopct="%1.1f%%", figsize=(6, 6)).get_figure())
+        st.pyplot(
+            pd.Series(response.model_dump())
+            .plot.pie(autopct="%1.1f%%", figsize=(6, 6))
+            .get_figure()
+        )
 
         # PDF Report
         pdf = FPDF()
@@ -126,7 +134,9 @@ if submitted:
         # Save report
         if not os.path.exists("reports"):
             os.makedirs("reports")
-        report_path = f"reports/allocation_report_{user_data.age}_{user_data.risk_tolerance}.pdf"
+        report_path = (
+            f"reports/allocation_report_{user_data.age}_{user_data.risk_tolerance}.pdf"
+        )
         pdf.output(report_path)
 
         st.download_button(
