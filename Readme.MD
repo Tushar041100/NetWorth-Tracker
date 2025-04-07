@@ -22,6 +22,22 @@ This project is a personalized AI-driven financial advisory application that pro
 
 ## Project Structure
 
+├── app.py # Main application file \
+├── data_generator.py # Script to generate synthetic user data \
+├── explain_and_validate.py # Functions for explanations and validations \
+├── model_training.py # Script for training the asset allocation model \
+├── validation.py # Data validation classes \
+├── requirements.txt # Python dependencies \
+├── Dockerfile # Docker configuration \
+├── docker-compose.yml # Docker Compose configuration \
+├── logs/ # Logs directory \
+│ └── recommendation_logs.csv
+├── reports/ # Directory for generated reports \
+├── synthetic_asset_allocation_dataset.csv # Synthetic dataset \
+├── asset_allocation_model.pkl # Pre-trained machine learning model \
+├── scaler.pkl # Scaler for feature normalization \
+└── test.py # Unit tests
+
 ## Installation
 1. Clone the repository:
    ```bash
