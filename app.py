@@ -10,7 +10,8 @@ from explain_and_validate import (
 )
 from fpdf import FPDF
 import os
-os.environ['PORT'] = "8080"
+
+os.environ["PORT"] = "8080"
 
 # Load model and scaler
 model = joblib.load("asset_allocation_model.pkl")
