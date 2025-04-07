@@ -31,7 +31,7 @@ This project is a personalized AI-driven financial advisory application that pro
 ├── Dockerfile # Docker configuration \
 ├── docker-compose.yml # Docker Compose configuration \
 ├── logs/ # Logs directory \
-│ └── recommendation_logs.csv
+│ └── recommendation_logs.csv \
 ├── reports/ # Directory for generated reports \
 ├── synthetic_asset_allocation_dataset.csv # Synthetic dataset \
 ├── asset_allocation_model.pkl # Pre-trained machine learning model \
