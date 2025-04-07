@@ -83,4 +83,5 @@ jobs:
           --image $IMAGE_URI \
           --platform managed \
           --region ${{ env.REGION }} \
-          --allow-unauthenticated
+          --allow-unauthenticated \
+          --timeout 300
